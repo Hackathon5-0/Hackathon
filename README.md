@@ -28,7 +28,7 @@ Hackathon prototype for BU transfer credit evaluation. **All data is synthetic.*
    select id, 'Your Name', 'admin' from auth.users where email = 'you@example.com';
    ```
 5. (Optional) Upload the PDFs in `data/transcripts` to the `transcripts` bucket, keeping their file names, and the PDFs in `data/syllabi` to the `syllabi` bucket.
-6. Send me the **Project URL** and **anon key** (Settings → API). **Never share the `service_role` key.** It goes only into Edge Function / server secrets later.
+6. Configure the web app with the **Project URL** and either the **anon key** or **publishable key** (Settings → API). **Never use or share the `service_role` key** in the web app.
 
 ### Quick checks (SQL Editor)
 ```sql

@@ -21,5 +21,5 @@ Requires Node 20+.
 
 ## Deploy to Vercel
 1. Push this repo to GitHub, then import it in Vercel with **Root Directory = `web`**.
-2. Add env vars `NEXT_PUBLIC_SUPABASE_URL` and `NEXT_PUBLIC_SUPABASE_ANON_KEY`.
+2. Add env vars `NEXT_PUBLIC_SUPABASE_URL` and either `NEXT_PUBLIC_SUPABASE_ANON_KEY` or `NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY`.
 3. In Supabase → Authentication → URL Configuration, set **Site URL** to your Vercel URL.

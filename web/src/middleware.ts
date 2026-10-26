@@ -1,10 +1,12 @@
 import { createServerClient } from "@supabase/ssr";
 import { NextResponse, type NextRequest } from "next/server";
+import { getSupabaseConfig } from "@/lib/supabase/config";
 
 // Refreshes the Supabase session cookie and keeps /admin behind login.
 export async function middleware(req: NextRequest) {
   let res = NextResponse.next({ request: req });
-  const sb = createServerClient(process.env.NEXT_PUBLIC_SUPABASE_URL!, process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY!, {
+  const { url, key } = getSupabaseConfig();
+  const sb = createServerClient(url, key, {
     cookies: {
       getAll: () => req.cookies.getAll(),
       setAll: (list) => {
