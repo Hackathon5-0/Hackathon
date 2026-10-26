@@ -39,6 +39,8 @@ jobs:
           cp -r .next/static .next/standalone/.next/static
           if [ -d public ]; then cp -r public .next/standalone/public; fi
           cd .next/standalone
+          # Already built and traced: leave nothing for Azure's Oryx build to redo
+          npm pkg delete scripts dependencies devDependencies
           npm pkg set scripts.start="HOSTNAME=0.0.0.0 node server.js"
 
       - name: Upload artifact for deployment job
