@@ -25,16 +25,27 @@ jobs:
 
       - name: npm install, build, and test
         working-directory: ./web
+        env:
+          NEXT_PUBLIC_SUPABASE_URL: ${{ secrets.NEXT_PUBLIC_SUPABASE_URL }}
+          NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY: ${{ secrets.NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY }}
         run: |
           npm ci
           npm run build
           npm run test:engine
 
+      - name: Prepare standalone package
+        working-directory: ./web
+        run: |
+          cp -r .next/static .next/standalone/.next/static
+          if [ -d public ]; then cp -r public .next/standalone/public; fi
+          cd .next/standalone
+          npm pkg set scripts.start="HOSTNAME=0.0.0.0 node server.js"
+
       - name: Upload artifact for deployment job
         uses: actions/upload-artifact@v4
         with:
           name: node-app
-          path: web
+          path: web/.next/standalone
           include-hidden-files: true
 
   deploy:
