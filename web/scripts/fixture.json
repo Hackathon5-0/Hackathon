@@ -1,0 +1,3380 @@
+{
+ "institutions": [
+  {
+   "id": "69c35622-4e41-57b4-b2be-e25585a20d5f",
+   "name": "Boston University",
+   "short_code": "BU",
+   "credit_system": "semester"
+  },
+  {
+   "id": "1ecc7c3f-476c-5158-ac5a-2b61dac8238d",
+   "name": "Northeastern University",
+   "short_code": "NU",
+   "credit_system": "semester"
+  },
+  {
+   "id": "806a2083-c22f-54a2-8f98-4a7357d0b27e",
+   "name": "New York University",
+   "short_code": "NYU",
+   "credit_system": "semester"
+  },
+  {
+   "id": "e1952ab3-6424-5430-94d0-afea26b273a4",
+   "name": "Harborview Community College (fictional)",
+   "short_code": "HCC",
+   "credit_system": "semester"
+  },
+  {
+   "id": "b22fee7b-cf39-5797-b84a-5c764fb82ce4",
+   "name": "Pacific Crest University (fictional)",
+   "short_code": "PCU",
+   "credit_system": "quarter"
+  }
+ ],
+ "courses": [
+  {
+   "id": "758be3c4-d002-5395-b474-c5b28cee9878",
+   "institution_id": "69c35622-4e41-57b4-b2be-e25585a20d5f",
+   "code": "CAS CS 111",
+   "title": "Introduction to Computer Science 1",
+   "program_area": "Computer Science",
+   "requirement_type": "Core (Group A)",
+   "credits": 4
+  },
+  {
+   "id": "b4fa5879-ec21-52a0-9132-6fc35862f219",
+   "institution_id": "69c35622-4e41-57b4-b2be-e25585a20d5f",
+   "code": "CAS CS 112",
+   "title": "Introduction to Computer Science 2",
+   "program_area": "Computer Science",
+   "requirement_type": "Core (Group A)",
+   "credits": 4
+  },
+  {
+   "id": "99e0d407-e97b-5043-aef1-a112ad2d173d",
+   "institution_id": "69c35622-4e41-57b4-b2be-e25585a20d5f",
+   "code": "CAS CS 131",
+   "title": "Combinatoric Structures",
+   "program_area": "Computer Science",
+   "requirement_type": "Core (Group A)",
+   "credits": 4
+  },
+  {
+   "id": "bb877f48-1027-50d7-86c8-0b547f127737",
+   "institution_id": "69c35622-4e41-57b4-b2be-e25585a20d5f",
+   "code": "CAS CS 210",
+   "title": "Computer Systems",
+   "program_area": "Computer Science",
+   "requirement_type": "Core (Group A)",
+   "credits": 4
+  },
+  {
+   "id": "deaf5be9-d989-5eec-931a-6369ee91e5c4",
+   "institution_id": "69c35622-4e41-57b4-b2be-e25585a20d5f",
+   "code": "CAS CS 330",
+   "title": "Introduction to the Analysis of Algorithms",
+   "program_area": "Computer Science",
+   "requirement_type": "Core (Group A)",
+   "credits": 4
+  },
+  {
+   "id": "a13a421a-dc48-52a3-aaf1-8530876e4894",
+   "institution_id": "69c35622-4e41-57b4-b2be-e25585a20d5f",
+   "code": "CAS CS 132",
+   "title": "Geometric Algorithms",
+   "program_area": "Computer Science",
+   "requirement_type": "Group B (choose)",
+   "credits": 4
+  },
+  {
+   "id": "156eb1f3-e208-55f8-9f9f-b78f73bd75f0",
+   "institution_id": "69c35622-4e41-57b4-b2be-e25585a20d5f",
+   "code": "CAS CS 235",
+   "title": "Algebraic Algorithms",
+   "program_area": "Computer Science",
+   "requirement_type": "Group B (choose)",
+   "credits": 4
+  },
+  {
+   "id": "e2649dc7-ff03-5ff6-8ebf-fc541c1206e3",
+   "institution_id": "69c35622-4e41-57b4-b2be-e25585a20d5f",
+   "code": "CAS CS 237",
+   "title": "Probability in Computing",
+   "program_area": "Computer Science",
+   "requirement_type": "Group B (choose)",
+   "credits": 4
+  },
+  {
+   "id": "e2ede3b4-b558-5d13-a683-6328936eac39",
+   "institution_id": "69c35622-4e41-57b4-b2be-e25585a20d5f",
+   "code": "CAS CS 320",
+   "title": "Concepts of Programming Languages",
+   "program_area": "Computer Science",
+   "requirement_type": "Group C (BU only)",
+   "credits": 4
+  },
+  {
+   "id": "93433186-489c-5f2e-a502-649919de1a02",
+   "institution_id": "69c35622-4e41-57b4-b2be-e25585a20d5f",
+   "code": "CAS CS 332",
+   "title": "Elements of the Theory of Computation",
+   "program_area": "Computer Science",
+   "requirement_type": "Group C (BU only)",
+   "credits": 4
+  },
+  {
+   "id": "4a804ef4-5981-5ffa-b9a7-360debf46bf3",
+   "institution_id": "69c35622-4e41-57b4-b2be-e25585a20d5f",
+   "code": "CAS CS 350",
+   "title": "Fundamentals of Computing Systems",
+   "program_area": "Computer Science",
+   "requirement_type": "Group C (BU only)",
+   "credits": 4
+  },
+  {
+   "id": "9d7f0e0d-a7c1-5096-aa17-d68a8353eb88",
+   "institution_id": "69c35622-4e41-57b4-b2be-e25585a20d5f",
+   "code": "CAS EC 101",
+   "title": "Introductory Microeconomic Analysis",
+   "program_area": "Economics",
+   "requirement_type": "Intro",
+   "credits": 4
+  },
+  {
+   "id": "88915821-d3b7-555b-9992-7e5524b6f2f6",
+   "institution_id": "69c35622-4e41-57b4-b2be-e25585a20d5f",
+   "code": "CAS EC 102",
+   "title": "Introductory Macroeconomic Analysis",
+   "program_area": "Economics",
+   "requirement_type": "Intro",
+   "credits": 4
+  },
+  {
+   "id": "179aac0e-610b-576d-a261-b5cfc69e83fc",
+   "institution_id": "69c35622-4e41-57b4-b2be-e25585a20d5f",
+   "code": "CAS EC 201",
+   "title": "Intermediate Microeconomic Analysis",
+   "program_area": "Economics",
+   "requirement_type": "Core",
+   "credits": 4
+  },
+  {
+   "id": "558751ae-c8e1-5cf5-b48b-ac395a6bb0f2",
+   "institution_id": "69c35622-4e41-57b4-b2be-e25585a20d5f",
+   "code": "CAS EC 202",
+   "title": "Intermediate Macroeconomic Analysis",
+   "program_area": "Economics",
+   "requirement_type": "Core",
+   "credits": 4
+  },
+  {
+   "id": "d3e9a6e6-6945-5676-9479-19f57a4325b8",
+   "institution_id": "69c35622-4e41-57b4-b2be-e25585a20d5f",
+   "code": "CAS EC 203",
+   "title": "Empirical Economics 1",
+   "program_area": "Economics",
+   "requirement_type": "Core",
+   "credits": 4
+  },
+  {
+   "id": "fada9152-6814-577a-ba7b-8bbd93fa4e73",
+   "institution_id": "69c35622-4e41-57b4-b2be-e25585a20d5f",
+   "code": "CAS EC 204",
+   "title": "Empirical Economics 2",
+   "program_area": "Economics",
+   "requirement_type": "Core",
+   "credits": 4
+  },
+  {
+   "id": "809d2139-dd1e-588a-b84e-00e789efec21",
+   "institution_id": "69c35622-4e41-57b4-b2be-e25585a20d5f",
+   "code": "CAS PS 101",
+   "title": "General Psychology",
+   "program_area": "Psychology",
+   "requirement_type": "Prerequisite",
+   "credits": 4
+  },
+  {
+   "id": "2a4fb1cd-462f-58b2-af00-a48de839b948",
+   "institution_id": "69c35622-4e41-57b4-b2be-e25585a20d5f",
+   "code": "CAS PS 211",
+   "title": "Experimental Design in Psychology",
+   "program_area": "Psychology",
+   "requirement_type": "Design & Statistics",
+   "credits": 4
+  },
+  {
+   "id": "3b1d2509-061a-57d8-9961-3b9fbcec6c33",
+   "institution_id": "69c35622-4e41-57b4-b2be-e25585a20d5f",
+   "code": "CAS PS 231",
+   "title": "Physiological Psychology",
+   "program_area": "Psychology",
+   "requirement_type": "Required principal",
+   "credits": 4
+  },
+  {
+   "id": "19162c88-8440-5604-b7b2-7aa70a3fb68b",
+   "institution_id": "69c35622-4e41-57b4-b2be-e25585a20d5f",
+   "code": "CAS PS 222",
+   "title": "Perception and Behavior",
+   "program_area": "Psychology",
+   "requirement_type": "Group A",
+   "credits": 4
+  },
+  {
+   "id": "9dbd6595-7c9e-5786-a2ad-a54ab42967cb",
+   "institution_id": "69c35622-4e41-57b4-b2be-e25585a20d5f",
+   "code": "CAS PS 336",
+   "title": "Introduction to Cognitive Psychology",
+   "program_area": "Psychology",
+   "requirement_type": "Group A",
+   "credits": 4
+  },
+  {
+   "id": "bbb17259-0bbb-579f-b163-98072aaed001",
+   "institution_id": "69c35622-4e41-57b4-b2be-e25585a20d5f",
+   "code": "CAS PS 241",
+   "title": "Developmental Psychology",
+   "program_area": "Psychology",
+   "requirement_type": "Group B",
+   "credits": 4
+  },
+  {
+   "id": "72a84483-f1ea-53ff-a76a-1b304e2901c1",
+   "institution_id": "69c35622-4e41-57b4-b2be-e25585a20d5f",
+   "code": "CAS PS 251",
+   "title": "Psychology of Personality: Theories and Application",
+   "program_area": "Psychology",
+   "requirement_type": "Group B",
+   "credits": 4
+  },
+  {
+   "id": "ad2d2a25-264b-563a-b562-cfd286ffc475",
+   "institution_id": "69c35622-4e41-57b4-b2be-e25585a20d5f",
+   "code": "CAS PS 261",
+   "title": "Social Psychology",
+   "program_area": "Psychology",
+   "requirement_type": "Group B",
+   "credits": 4
+  },
+  {
+   "id": "5b88dce7-8b04-534e-a89b-04ef561443e6",
+   "institution_id": "69c35622-4e41-57b4-b2be-e25585a20d5f",
+   "code": "CAS PS 371",
+   "title": "Psychopathology",
+   "program_area": "Psychology",
+   "requirement_type": "Group B",
+   "credits": 4
+  },
+  {
+   "id": "dbe1c66f-14b6-5dbe-8474-0c67ef8429a7",
+   "institution_id": "69c35622-4e41-57b4-b2be-e25585a20d5f",
+   "code": "CAS BI 107",
+   "title": "Biology 1",
+   "program_area": "Biology",
+   "requirement_type": "Intro",
+   "credits": 4
+  },
+  {
+   "id": "1bee9b13-cd76-54a1-a6b1-0710ca03ef71",
+   "institution_id": "69c35622-4e41-57b4-b2be-e25585a20d5f",
+   "code": "CAS BI 108",
+   "title": "Biology 2",
+   "program_area": "Biology",
+   "requirement_type": "Intro",
+   "credits": 4
+  },
+  {
+   "id": "ec0c2638-8d7c-59ac-b5ba-e13077cf344a",
+   "institution_id": "69c35622-4e41-57b4-b2be-e25585a20d5f",
+   "code": "CAS BI 203",
+   "title": "Cell Biology",
+   "program_area": "Biology",
+   "requirement_type": "Core",
+   "credits": 4
+  },
+  {
+   "id": "11b1d9b5-5727-597d-b1e6-a8ed8dae4fdf",
+   "institution_id": "69c35622-4e41-57b4-b2be-e25585a20d5f",
+   "code": "CAS BI 206",
+   "title": "Genetics",
+   "program_area": "Biology",
+   "requirement_type": "Core",
+   "credits": 4
+  },
+  {
+   "id": "993b328b-5770-5393-914e-d88367210cc2",
+   "institution_id": "69c35622-4e41-57b4-b2be-e25585a20d5f",
+   "code": "CAS CH 101",
+   "title": "General Chemistry 1",
+   "program_area": "Biology",
+   "requirement_type": "Supporting (Chemistry)",
+   "credits": 4
+  },
+  {
+   "id": "ae0139fb-a748-51fc-9fdf-b0c2ead4f290",
+   "institution_id": "69c35622-4e41-57b4-b2be-e25585a20d5f",
+   "code": "CAS CH 102",
+   "title": "General Chemistry 2",
+   "program_area": "Biology",
+   "requirement_type": "Supporting (Chemistry)",
+   "credits": 4
+  },
+  {
+   "id": "803a8458-bfd3-5c88-b52e-9dca63b0995a",
+   "institution_id": "69c35622-4e41-57b4-b2be-e25585a20d5f",
+   "code": "CAS CH 203",
+   "title": "Organic Chemistry 1",
+   "program_area": "Biology",
+   "requirement_type": "Supporting (Chemistry)",
+   "credits": 4
+  },
+  {
+   "id": "130a5bbd-4d3e-516c-aafe-071e939fa402",
+   "institution_id": "69c35622-4e41-57b4-b2be-e25585a20d5f",
+   "code": "CAS CH 204",
+   "title": "Organic Chemistry 2",
+   "program_area": "Biology",
+   "requirement_type": "Supporting (Chemistry)",
+   "credits": 4
+  },
+  {
+   "id": "69ba7b93-f269-5f90-8165-3572e0fc17e6",
+   "institution_id": "69c35622-4e41-57b4-b2be-e25585a20d5f",
+   "code": "CAS MA 123",
+   "title": "Calculus I",
+   "program_area": "Mathematics",
+   "requirement_type": "Lower division",
+   "credits": 4
+  },
+  {
+   "id": "e4ce65f1-f2fc-51b9-8b82-b3a692eb7b48",
+   "institution_id": "69c35622-4e41-57b4-b2be-e25585a20d5f",
+   "code": "CAS MA 124",
+   "title": "Calculus II",
+   "program_area": "Mathematics",
+   "requirement_type": "Lower division",
+   "credits": 4
+  },
+  {
+   "id": "7fcb66a1-bcff-59a2-9cef-9a4e11068ad9",
+   "institution_id": "69c35622-4e41-57b4-b2be-e25585a20d5f",
+   "code": "CAS MA 225",
+   "title": "Multivariate Calculus",
+   "program_area": "Mathematics",
+   "requirement_type": "Lower division",
+   "credits": 4
+  },
+  {
+   "id": "174012d6-e350-5149-a070-6eb9a17ea4cd",
+   "institution_id": "69c35622-4e41-57b4-b2be-e25585a20d5f",
+   "code": "CAS MA 242",
+   "title": "Linear Algebra",
+   "program_area": "Mathematics",
+   "requirement_type": "Lower division",
+   "credits": 4
+  },
+  {
+   "id": "29e12d80-d6f8-5910-b3ff-1652cfacaa80",
+   "institution_id": "69c35622-4e41-57b4-b2be-e25585a20d5f",
+   "code": "CAS MA 226",
+   "title": "Differential Equations",
+   "program_area": "Mathematics",
+   "requirement_type": "Lower division",
+   "credits": 4
+  },
+  {
+   "id": "d0fdb102-9c99-5e58-9941-a150b6a4e4c7",
+   "institution_id": "69c35622-4e41-57b4-b2be-e25585a20d5f",
+   "code": "CAS MA 293",
+   "title": "Discrete Mathematics",
+   "program_area": "Mathematics",
+   "requirement_type": "Lower division",
+   "credits": 4
+  },
+  {
+   "id": "8aa5fe7a-1b7b-5cfb-b145-22f3594fd4b6",
+   "institution_id": "69c35622-4e41-57b4-b2be-e25585a20d5f",
+   "code": "CAS MA 581",
+   "title": "Probability",
+   "program_area": "Mathematics",
+   "requirement_type": "Upper division",
+   "credits": 4
+  },
+  {
+   "id": "6c2d3d70-0121-5172-9b5c-5b4b3f452d10",
+   "institution_id": "1ecc7c3f-476c-5158-ac5a-2b61dac8238d",
+   "code": "CS 2000",
+   "title": "Introduction to Program Design and Implementation",
+   "program_area": "Computer Science",
+   "requirement_type": null,
+   "credits": 5
+  },
+  {
+   "id": "e701133b-70e3-537e-af3e-5163dd1315ec",
+   "institution_id": "1ecc7c3f-476c-5158-ac5a-2b61dac8238d",
+   "code": "CS 2100",
+   "title": "Program Design and Implementation 1",
+   "program_area": "Computer Science",
+   "requirement_type": null,
+   "credits": 5
+  },
+  {
+   "id": "a62d3f35-c3d8-5df2-ad5b-8271607e87e2",
+   "institution_id": "1ecc7c3f-476c-5158-ac5a-2b61dac8238d",
+   "code": "CS 3100",
+   "title": "Program Design and Implementation 2",
+   "program_area": "Computer Science",
+   "requirement_type": null,
+   "credits": 5
+  },
+  {
+   "id": "ef5bc594-da83-52d3-a280-2bd81ad28266",
+   "institution_id": "1ecc7c3f-476c-5158-ac5a-2b61dac8238d",
+   "code": "CS 1800",
+   "title": "Discrete Structures",
+   "program_area": "Computer Science",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "0228bc7a-ed7e-50eb-afbf-dfca5d998f2e",
+   "institution_id": "1ecc7c3f-476c-5158-ac5a-2b61dac8238d",
+   "code": "CS 2700",
+   "title": "Data Structures and Analysis",
+   "program_area": "Computer Science",
+   "requirement_type": null,
+   "credits": 5
+  },
+  {
+   "id": "2a0cca89-69bc-5389-8682-f66c30afdce0",
+   "institution_id": "1ecc7c3f-476c-5158-ac5a-2b61dac8238d",
+   "code": "CS 3000",
+   "title": "Algorithms and Data",
+   "program_area": "Computer Science",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "95a206b9-63ef-596d-bcc2-473350c40723",
+   "institution_id": "1ecc7c3f-476c-5158-ac5a-2b61dac8238d",
+   "code": "CS 3650",
+   "title": "Computer Systems",
+   "program_area": "Computer Science",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "3d277054-25a7-5d0b-9cab-4edf8de11380",
+   "institution_id": "1ecc7c3f-476c-5158-ac5a-2b61dac8238d",
+   "code": "CS 3800",
+   "title": "Theory of Computation",
+   "program_area": "Computer Science",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "e7b3eb56-1142-5639-8c12-60ea2c89f738",
+   "institution_id": "1ecc7c3f-476c-5158-ac5a-2b61dac8238d",
+   "code": "CS 4400",
+   "title": "Programming Languages",
+   "program_area": "Computer Science",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "2f6063e2-37cc-5002-a10e-02c465d39714",
+   "institution_id": "1ecc7c3f-476c-5158-ac5a-2b61dac8238d",
+   "code": "CS 2800",
+   "title": "Logic and Computation",
+   "program_area": "Computer Science",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "e3649567-a070-5771-b49e-1f06124f91f1",
+   "institution_id": "1ecc7c3f-476c-5158-ac5a-2b61dac8238d",
+   "code": "DS 3000",
+   "title": "Mathematical Foundations of Artificial Intelligence",
+   "program_area": "Computer Science",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "c99af924-3c80-56e0-90fc-674a10d2ecd0",
+   "institution_id": "1ecc7c3f-476c-5158-ac5a-2b61dac8238d",
+   "code": "ECON 1116",
+   "title": "Principles of Microeconomics",
+   "program_area": "Economics",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "a77f75fc-9487-5e10-803a-4c6f330ee1d3",
+   "institution_id": "1ecc7c3f-476c-5158-ac5a-2b61dac8238d",
+   "code": "ECON 1115",
+   "title": "Principles of Macroeconomics",
+   "program_area": "Economics",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "fa0a74ff-2a46-590a-a4fc-270b5f007ae8",
+   "institution_id": "1ecc7c3f-476c-5158-ac5a-2b61dac8238d",
+   "code": "ECON 2316",
+   "title": "Microeconomic Theory",
+   "program_area": "Economics",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "749fb72a-ab68-514a-b3e9-1788fd775066",
+   "institution_id": "1ecc7c3f-476c-5158-ac5a-2b61dac8238d",
+   "code": "ECON 2315",
+   "title": "Macroeconomic Theory",
+   "program_area": "Economics",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "1f9f9e87-37d6-5bf3-b523-083f86ba16ae",
+   "institution_id": "1ecc7c3f-476c-5158-ac5a-2b61dac8238d",
+   "code": "ECON 2350",
+   "title": "Statistics for Economists",
+   "program_area": "Economics",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "86c6ddca-4f11-547a-8eb9-f57f15cada9a",
+   "institution_id": "1ecc7c3f-476c-5158-ac5a-2b61dac8238d",
+   "code": "ECON 2560",
+   "title": "Applied Econometrics",
+   "program_area": "Economics",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "9d4bc8ef-2dbb-5844-ae45-3da4e06e17f2",
+   "institution_id": "1ecc7c3f-476c-5158-ac5a-2b61dac8238d",
+   "code": "PSYC 1101",
+   "title": "Foundations of Psychology",
+   "program_area": "Psychology",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "c288100b-6b23-597e-a047-f048079af3e4",
+   "institution_id": "1ecc7c3f-476c-5158-ac5a-2b61dac8238d",
+   "code": "PSYC 2320",
+   "title": "Statistics in Psychological Research",
+   "program_area": "Psychology",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "bf39c261-5564-5d90-947f-b8de81cd7a49",
+   "institution_id": "1ecc7c3f-476c-5158-ac5a-2b61dac8238d",
+   "code": "PSYC 3458",
+   "title": "Biological Psychology",
+   "program_area": "Psychology",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "43a7d731-d8cb-50e8-9959-98e446a5d397",
+   "institution_id": "1ecc7c3f-476c-5158-ac5a-2b61dac8238d",
+   "code": "PSYC 3402",
+   "title": "Social Psychology",
+   "program_area": "Psychology",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "d177954b-41ab-5773-8489-9344d5072e45",
+   "institution_id": "1ecc7c3f-476c-5158-ac5a-2b61dac8238d",
+   "code": "PSYC 3404",
+   "title": "Developmental Psychology",
+   "program_area": "Psychology",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "25b6ea08-5ae5-5051-ad09-bfa06110cefb",
+   "institution_id": "1ecc7c3f-476c-5158-ac5a-2b61dac8238d",
+   "code": "PSYC 3464",
+   "title": "Psychology of Language",
+   "program_area": "Psychology",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "54210fd5-a8bd-53ba-91a9-38a8ddd909ef",
+   "institution_id": "1ecc7c3f-476c-5158-ac5a-2b61dac8238d",
+   "code": "BIOL 1107",
+   "title": "Foundations of Biology",
+   "program_area": "Biology",
+   "requirement_type": null,
+   "credits": 5
+  },
+  {
+   "id": "38b9c7df-1a97-5a0a-977a-69c25f87320a",
+   "institution_id": "1ecc7c3f-476c-5158-ac5a-2b61dac8238d",
+   "code": "BIOL 1113",
+   "title": "General Biology 2",
+   "program_area": "Biology",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "f77f7392-8404-5133-ba1c-772ba0fd0ced",
+   "institution_id": "1ecc7c3f-476c-5158-ac5a-2b61dac8238d",
+   "code": "BIOL 2299",
+   "title": "Inquiries in Biological Sciences",
+   "program_area": "Biology",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "4787c20e-f977-507e-bf8b-af20158a743c",
+   "institution_id": "1ecc7c3f-476c-5158-ac5a-2b61dac8238d",
+   "code": "BIOL 2301",
+   "title": "Genetics and Molecular Biology",
+   "program_area": "Biology",
+   "requirement_type": null,
+   "credits": 5
+  },
+  {
+   "id": "4d7e740d-7be7-561b-b1d1-c1d56efa9adc",
+   "institution_id": "1ecc7c3f-476c-5158-ac5a-2b61dac8238d",
+   "code": "BIOL 3611",
+   "title": "Biochemistry",
+   "program_area": "Biology",
+   "requirement_type": null,
+   "credits": 5
+  },
+  {
+   "id": "11a5254a-f192-5ee7-9275-19374079606d",
+   "institution_id": "1ecc7c3f-476c-5158-ac5a-2b61dac8238d",
+   "code": "CHEM 1161",
+   "title": "General Chemistry for Science Majors",
+   "program_area": "Biology",
+   "requirement_type": null,
+   "credits": 5
+  },
+  {
+   "id": "2935c1ac-5670-5b4b-b5db-8eccaf289f35",
+   "institution_id": "1ecc7c3f-476c-5158-ac5a-2b61dac8238d",
+   "code": "CHEM 2311",
+   "title": "Organic Chemistry 1",
+   "program_area": "Biology",
+   "requirement_type": null,
+   "credits": 5
+  },
+  {
+   "id": "12a58fc3-19e8-5443-9c52-35c01b97b7f3",
+   "institution_id": "1ecc7c3f-476c-5158-ac5a-2b61dac8238d",
+   "code": "CHEM 2313",
+   "title": "Organic Chemistry 2",
+   "program_area": "Biology",
+   "requirement_type": null,
+   "credits": 5
+  },
+  {
+   "id": "d6da62c3-2785-530a-aacd-efd6c71a7f06",
+   "institution_id": "1ecc7c3f-476c-5158-ac5a-2b61dac8238d",
+   "code": "MATH 1341",
+   "title": "Calculus 1 for Science and Engineering",
+   "program_area": "Mathematics",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "70760655-5320-5487-9279-5ce2a60eecd7",
+   "institution_id": "1ecc7c3f-476c-5158-ac5a-2b61dac8238d",
+   "code": "MATH 1342",
+   "title": "Calculus 2 for Science and Engineering",
+   "program_area": "Mathematics",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "2c5af860-ccc0-5d60-98ed-c04f66f08480",
+   "institution_id": "1ecc7c3f-476c-5158-ac5a-2b61dac8238d",
+   "code": "MATH 2321",
+   "title": "Calculus 3 for Science and Engineering",
+   "program_area": "Mathematics",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "df6b6729-9f40-5920-8850-87cc4c78c78a",
+   "institution_id": "1ecc7c3f-476c-5158-ac5a-2b61dac8238d",
+   "code": "MATH 2331",
+   "title": "Linear Algebra",
+   "program_area": "Mathematics",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "562583c5-f69e-5859-b621-257f738dc23d",
+   "institution_id": "1ecc7c3f-476c-5158-ac5a-2b61dac8238d",
+   "code": "MATH 2341",
+   "title": "Differential Equations and Linear Algebra for Engineering",
+   "program_area": "Mathematics",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "a39fba8c-01dc-5ddd-bf54-cbc6bac5a3c8",
+   "institution_id": "1ecc7c3f-476c-5158-ac5a-2b61dac8238d",
+   "code": "MATH 1365",
+   "title": "Introduction to Mathematical Reasoning",
+   "program_area": "Mathematics",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "382497ab-2699-5c0e-8400-6917ae832fdc",
+   "institution_id": "1ecc7c3f-476c-5158-ac5a-2b61dac8238d",
+   "code": "MATH 3081",
+   "title": "Probability and Statistics",
+   "program_area": "Mathematics",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "a1310592-b808-580a-bd87-ce9dd68e20fa",
+   "institution_id": "806a2083-c22f-54a2-8f98-4a7357d0b27e",
+   "code": "CSCI-UA 101",
+   "title": "Intro to Computer Science",
+   "program_area": "Computer Science",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "09d2d949-664d-5170-9686-3a3fcc032a3f",
+   "institution_id": "806a2083-c22f-54a2-8f98-4a7357d0b27e",
+   "code": "CSCI-UA 102",
+   "title": "Data Structures",
+   "program_area": "Computer Science",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "6eeb6e7c-13d2-58d4-9df2-5631d5db2e85",
+   "institution_id": "806a2083-c22f-54a2-8f98-4a7357d0b27e",
+   "code": "CSCI-UA 201",
+   "title": "Computer Systems Organization",
+   "program_area": "Computer Science",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "631ef8e8-d8e7-529e-b64e-fc9b87293457",
+   "institution_id": "806a2083-c22f-54a2-8f98-4a7357d0b27e",
+   "code": "CSCI-UA 202",
+   "title": "Operating Systems",
+   "program_area": "Computer Science",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "32f10821-0a84-54da-896d-6df0b0973267",
+   "institution_id": "806a2083-c22f-54a2-8f98-4a7357d0b27e",
+   "code": "CSCI-UA 310",
+   "title": "Basic Algorithms",
+   "program_area": "Computer Science",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "911e7d73-6c80-570b-9f3f-0aef1f295a17",
+   "institution_id": "806a2083-c22f-54a2-8f98-4a7357d0b27e",
+   "code": "CSCI-UA 453",
+   "title": "Theory of Computation",
+   "program_area": "Computer Science",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "0588cd64-30f7-527a-81ec-944cf4b13f56",
+   "institution_id": "806a2083-c22f-54a2-8f98-4a7357d0b27e",
+   "code": "MATH-UA 120",
+   "title": "Discrete Mathematics",
+   "program_area": "Computer Science",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "5d494c58-ec0c-566a-b126-b8d6c58b157c",
+   "institution_id": "806a2083-c22f-54a2-8f98-4a7357d0b27e",
+   "code": "ECON-UA 2",
+   "title": "Introduction to Microeconomics",
+   "program_area": "Economics",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "281fb26b-9b26-5dd9-8e7a-eae678085ba3",
+   "institution_id": "806a2083-c22f-54a2-8f98-4a7357d0b27e",
+   "code": "ECON-UA 1",
+   "title": "Introduction to Macroeconomics",
+   "program_area": "Economics",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "bf886ad0-8ccf-5d86-b057-30bae7ceb5de",
+   "institution_id": "806a2083-c22f-54a2-8f98-4a7357d0b27e",
+   "code": "ECON-UA 10",
+   "title": "Intermediate Microeconomics",
+   "program_area": "Economics",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "4a1a30d6-9103-552e-93d7-e3b170aec137",
+   "institution_id": "806a2083-c22f-54a2-8f98-4a7357d0b27e",
+   "code": "ECON-UA 12",
+   "title": "Intermediate Macroeconomics",
+   "program_area": "Economics",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "6af152ea-1f9a-5bad-9f63-7b229185d3e5",
+   "institution_id": "806a2083-c22f-54a2-8f98-4a7357d0b27e",
+   "code": "ECON-UA 18",
+   "title": "Statistics",
+   "program_area": "Economics",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "de4ad72f-1104-5101-a0cb-0875c16bfcff",
+   "institution_id": "806a2083-c22f-54a2-8f98-4a7357d0b27e",
+   "code": "ECON-UA 266",
+   "title": "Intro to Econometrics",
+   "program_area": "Economics",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "b0544a25-9746-51e7-8dd9-370e25a13d84",
+   "institution_id": "806a2083-c22f-54a2-8f98-4a7357d0b27e",
+   "code": "PSYCH-UA 1",
+   "title": "Intro to Psychology",
+   "program_area": "Psychology",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "6579b68d-f524-5f3a-8d72-44caf73d86c4",
+   "institution_id": "806a2083-c22f-54a2-8f98-4a7357d0b27e",
+   "code": "PSYCH-UA 10",
+   "title": "Statistics for the Behavioral Sciences",
+   "program_area": "Psychology",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "bf498a7b-6ad4-5de0-9ef0-4a44846a2212",
+   "institution_id": "806a2083-c22f-54a2-8f98-4a7357d0b27e",
+   "code": "PSYCH-UA 11",
+   "title": "Statistics and Data Analysis for Research in Psychology",
+   "program_area": "Psychology",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "d90a1c38-762a-57aa-a698-72d7d9907c6d",
+   "institution_id": "806a2083-c22f-54a2-8f98-4a7357d0b27e",
+   "code": "PSYCH-UA 22",
+   "title": "Perception",
+   "program_area": "Psychology",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "01230abd-c253-5a80-9cb9-572086117846",
+   "institution_id": "806a2083-c22f-54a2-8f98-4a7357d0b27e",
+   "code": "PSYCH-UA 25",
+   "title": "Cognitive Neuroscience",
+   "program_area": "Psychology",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "61e2997e-9a98-5d6f-9505-c669e69fbc6e",
+   "institution_id": "806a2083-c22f-54a2-8f98-4a7357d0b27e",
+   "code": "PSYCH-UA 29",
+   "title": "Cognition",
+   "program_area": "Psychology",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "52d1e9b0-dd26-5ef9-b189-f7c30a1d98ea",
+   "institution_id": "806a2083-c22f-54a2-8f98-4a7357d0b27e",
+   "code": "PSYCH-UA 30",
+   "title": "Personality",
+   "program_area": "Psychology",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "291a2ae0-dd0a-5c4e-a263-5d650b7bdd1f",
+   "institution_id": "806a2083-c22f-54a2-8f98-4a7357d0b27e",
+   "code": "PSYCH-UA 32",
+   "title": "Social Psychology",
+   "program_area": "Psychology",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "cb3e8873-30e0-5af4-966c-d66349cfebf3",
+   "institution_id": "806a2083-c22f-54a2-8f98-4a7357d0b27e",
+   "code": "PSYCH-UA 34",
+   "title": "Developmental Psychology",
+   "program_area": "Psychology",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "df0bf6d0-eb79-569f-abf9-7da13a849ffe",
+   "institution_id": "806a2083-c22f-54a2-8f98-4a7357d0b27e",
+   "code": "PSYCH-UA 51",
+   "title": "Abnormal Psychology",
+   "program_area": "Psychology",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "42c75755-1ce9-5479-85f2-abe8a7f94fe4",
+   "institution_id": "806a2083-c22f-54a2-8f98-4a7357d0b27e",
+   "code": "BIOL-UA 11",
+   "title": "Principles of Biology I",
+   "program_area": "Biology",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "b33caf22-c49c-5d80-b7d1-677bcd29b0e7",
+   "institution_id": "806a2083-c22f-54a2-8f98-4a7357d0b27e",
+   "code": "BIOL-UA 12",
+   "title": "Principles of Biology II",
+   "program_area": "Biology",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "9a820d72-0146-5d65-92b5-3ba8d07567f9",
+   "institution_id": "806a2083-c22f-54a2-8f98-4a7357d0b27e",
+   "code": "BIOL-UA 21",
+   "title": "Molecular and Cell Biology I",
+   "program_area": "Biology",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "6b421a99-2c7c-55d5-985d-834528380b2a",
+   "institution_id": "806a2083-c22f-54a2-8f98-4a7357d0b27e",
+   "code": "BIOL-UA 30",
+   "title": "Genetics",
+   "program_area": "Biology",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "fdec39f1-432b-5dba-8d63-3547c1166744",
+   "institution_id": "806a2083-c22f-54a2-8f98-4a7357d0b27e",
+   "code": "CHEM-UA 125",
+   "title": "General Chemistry I",
+   "program_area": "Biology",
+   "requirement_type": null,
+   "credits": 5
+  },
+  {
+   "id": "5c2efdad-4a89-5948-9819-7de7e529590f",
+   "institution_id": "806a2083-c22f-54a2-8f98-4a7357d0b27e",
+   "code": "CHEM-UA 126",
+   "title": "General Chemistry II",
+   "program_area": "Biology",
+   "requirement_type": null,
+   "credits": 5
+  },
+  {
+   "id": "20da508a-bf2e-5e84-b9e1-856ef070677c",
+   "institution_id": "806a2083-c22f-54a2-8f98-4a7357d0b27e",
+   "code": "CHEM-UA 225",
+   "title": "Organic Chemistry I",
+   "program_area": "Biology",
+   "requirement_type": null,
+   "credits": 5
+  },
+  {
+   "id": "083a7654-64b7-52df-ab34-34bacced74d6",
+   "institution_id": "806a2083-c22f-54a2-8f98-4a7357d0b27e",
+   "code": "CHEM-UA 226",
+   "title": "Organic Chemistry II",
+   "program_area": "Biology",
+   "requirement_type": null,
+   "credits": 5
+  },
+  {
+   "id": "c3a686bf-bbf3-5fdd-9100-4c4d2536dcf5",
+   "institution_id": "806a2083-c22f-54a2-8f98-4a7357d0b27e",
+   "code": "MATH-UA 121",
+   "title": "Calculus I",
+   "program_area": "Mathematics",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "94ef0751-8df5-53b4-8e2e-389448bac99e",
+   "institution_id": "806a2083-c22f-54a2-8f98-4a7357d0b27e",
+   "code": "MATH-UA 122",
+   "title": "Calculus II",
+   "program_area": "Mathematics",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "306688a4-9ea5-5d3b-9916-5e85c664b930",
+   "institution_id": "806a2083-c22f-54a2-8f98-4a7357d0b27e",
+   "code": "MATH-UA 123",
+   "title": "Calculus III",
+   "program_area": "Mathematics",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "9a14099a-f5ef-5926-b04c-17f5a73ea107",
+   "institution_id": "806a2083-c22f-54a2-8f98-4a7357d0b27e",
+   "code": "MATH-UA 140",
+   "title": "Linear Algebra",
+   "program_area": "Mathematics",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "928d6f43-0736-5f4c-bdce-a9984722deb0",
+   "institution_id": "806a2083-c22f-54a2-8f98-4a7357d0b27e",
+   "code": "MATH-UA 262",
+   "title": "Ordinary Differential Equations",
+   "program_area": "Mathematics",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "fef470eb-bd20-5411-a989-6f21db6b8f04",
+   "institution_id": "806a2083-c22f-54a2-8f98-4a7357d0b27e",
+   "code": "MATH-UA 233",
+   "title": "Theory of Probability",
+   "program_area": "Mathematics",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "30b3eb05-3a8d-567e-bdfa-4f1ff5b7a382",
+   "institution_id": "806a2083-c22f-54a2-8f98-4a7357d0b27e",
+   "code": "MATH-UA 235",
+   "title": "Probability & Statistics",
+   "program_area": "Mathematics",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "52f8c356-4db2-56ff-92e3-ff241e1aa500",
+   "institution_id": "e1952ab3-6424-5430-94d0-afea26b273a4",
+   "code": "CSC 110",
+   "title": "Introduction to Programming (Python)",
+   "program_area": "Computer Science",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "f7237796-ad0c-53cd-bc02-70b7913acbdb",
+   "institution_id": "e1952ab3-6424-5430-94d0-afea26b273a4",
+   "code": "CSC 120",
+   "title": "Computer Applications",
+   "program_area": "Computer Science",
+   "requirement_type": null,
+   "credits": 3
+  },
+  {
+   "id": "8a83ae13-4a95-57b9-9183-2dd741f5368e",
+   "institution_id": "e1952ab3-6424-5430-94d0-afea26b273a4",
+   "code": "CSC 215",
+   "title": "Data Structures in Java",
+   "program_area": "Computer Science",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "3a59e69b-7f6c-5425-8b55-e1cfe59dbe68",
+   "institution_id": "e1952ab3-6424-5430-94d0-afea26b273a4",
+   "code": "MAT 090",
+   "title": "Developmental Algebra",
+   "program_area": "Mathematics",
+   "requirement_type": null,
+   "credits": 3
+  },
+  {
+   "id": "4e1309b6-84be-5d4e-9e1b-9680ae081b64",
+   "institution_id": "e1952ab3-6424-5430-94d0-afea26b273a4",
+   "code": "MAT 140",
+   "title": "Precalculus",
+   "program_area": "Mathematics",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "da0ae906-ce4a-5c74-95ce-15509ede87a9",
+   "institution_id": "e1952ab3-6424-5430-94d0-afea26b273a4",
+   "code": "MAT 151",
+   "title": "Calculus I",
+   "program_area": "Mathematics",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "f3260c83-a903-5462-bf7a-55ac630737a4",
+   "institution_id": "e1952ab3-6424-5430-94d0-afea26b273a4",
+   "code": "MAT 152",
+   "title": "Calculus II",
+   "program_area": "Mathematics",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "4ae7b6f9-fc83-5c7a-9b96-92b737890449",
+   "institution_id": "e1952ab3-6424-5430-94d0-afea26b273a4",
+   "code": "MAT 210",
+   "title": "Discrete Mathematics",
+   "program_area": "Mathematics",
+   "requirement_type": null,
+   "credits": 3
+  },
+  {
+   "id": "b8059a38-210c-5a3c-bd15-d66d9407d85b",
+   "institution_id": "e1952ab3-6424-5430-94d0-afea26b273a4",
+   "code": "MAT 220",
+   "title": "Linear Algebra",
+   "program_area": "Mathematics",
+   "requirement_type": null,
+   "credits": 3
+  },
+  {
+   "id": "f3173bbd-1cc7-5b06-a650-a81827f161ec",
+   "institution_id": "e1952ab3-6424-5430-94d0-afea26b273a4",
+   "code": "STA 150",
+   "title": "Elementary Statistics",
+   "program_area": "Mathematics",
+   "requirement_type": null,
+   "credits": 3
+  },
+  {
+   "id": "4589179f-5e15-5481-be06-c918617714cc",
+   "institution_id": "e1952ab3-6424-5430-94d0-afea26b273a4",
+   "code": "ENG 101",
+   "title": "English Composition I",
+   "program_area": "English",
+   "requirement_type": null,
+   "credits": 3
+  },
+  {
+   "id": "2b1c37c7-225b-597e-944a-e6c567b19160",
+   "institution_id": "e1952ab3-6424-5430-94d0-afea26b273a4",
+   "code": "ENG 102",
+   "title": "English Composition II",
+   "program_area": "English",
+   "requirement_type": null,
+   "credits": 3
+  },
+  {
+   "id": "5e8fb111-050b-5909-b56d-1a611a96b7ff",
+   "institution_id": "e1952ab3-6424-5430-94d0-afea26b273a4",
+   "code": "ECO 201",
+   "title": "Principles of Macroeconomics",
+   "program_area": "Economics",
+   "requirement_type": null,
+   "credits": 3
+  },
+  {
+   "id": "2437acd2-e3b0-55f5-a133-5b8ee06c19be",
+   "institution_id": "e1952ab3-6424-5430-94d0-afea26b273a4",
+   "code": "ECO 202",
+   "title": "Principles of Microeconomics",
+   "program_area": "Economics",
+   "requirement_type": null,
+   "credits": 3
+  },
+  {
+   "id": "d10c490c-657c-52d3-9ae8-b37aad38e822",
+   "institution_id": "e1952ab3-6424-5430-94d0-afea26b273a4",
+   "code": "PSY 101",
+   "title": "Introduction to Psychology",
+   "program_area": "Psychology",
+   "requirement_type": null,
+   "credits": 3
+  },
+  {
+   "id": "64f17d07-7545-546f-bd8e-92b4c21ee299",
+   "institution_id": "e1952ab3-6424-5430-94d0-afea26b273a4",
+   "code": "PSY 210",
+   "title": "Lifespan Development",
+   "program_area": "Psychology",
+   "requirement_type": null,
+   "credits": 3
+  },
+  {
+   "id": "2e42235f-3e57-59a4-be52-7d75e271e2ff",
+   "institution_id": "e1952ab3-6424-5430-94d0-afea26b273a4",
+   "code": "BIO 121",
+   "title": "General Biology I",
+   "program_area": "Biology",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "bd15c478-fef0-53f7-b354-b1b69e9bc286",
+   "institution_id": "e1952ab3-6424-5430-94d0-afea26b273a4",
+   "code": "BIO 122",
+   "title": "General Biology II",
+   "program_area": "Biology",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "5ffd484e-6aa6-5c24-85ca-de36a0a07d97",
+   "institution_id": "e1952ab3-6424-5430-94d0-afea26b273a4",
+   "code": "CHM 121",
+   "title": "General Chemistry I",
+   "program_area": "Chemistry",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "95c6bcdf-826e-548b-9326-76ffb063baf5",
+   "institution_id": "e1952ab3-6424-5430-94d0-afea26b273a4",
+   "code": "CHM 122",
+   "title": "General Chemistry II",
+   "program_area": "Chemistry",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "3e285be5-de5e-5579-8698-b8b99dc9c006",
+   "institution_id": "e1952ab3-6424-5430-94d0-afea26b273a4",
+   "code": "HIS 111",
+   "title": "U.S. History I",
+   "program_area": "History",
+   "requirement_type": null,
+   "credits": 3
+  },
+  {
+   "id": "3b1cb806-4e55-5f3e-a6d5-9183a70a2462",
+   "institution_id": "e1952ab3-6424-5430-94d0-afea26b273a4",
+   "code": "HSP 101",
+   "title": "Introduction to Hospitality Management",
+   "program_area": "Hospitality",
+   "requirement_type": null,
+   "credits": 3
+  },
+  {
+   "id": "b75742cf-6c2d-5aa6-b78e-ff526a02038f",
+   "institution_id": "e1952ab3-6424-5430-94d0-afea26b273a4",
+   "code": "COM 105",
+   "title": "Public Speaking",
+   "program_area": "Communication",
+   "requirement_type": null,
+   "credits": 3
+  },
+  {
+   "id": "6020a07f-65b2-5bd6-b04b-814e91ab4a19",
+   "institution_id": "b22fee7b-cf39-5797-b84a-5c764fb82ce4",
+   "code": "CSE 142",
+   "title": "Computer Programming I",
+   "program_area": "Computer Science",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "ac555d2d-e401-548a-a4b9-fc1cc6e593d2",
+   "institution_id": "b22fee7b-cf39-5797-b84a-5c764fb82ce4",
+   "code": "CSE 143",
+   "title": "Computer Programming II",
+   "program_area": "Computer Science",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "bf62f279-0e84-5648-8947-6a801171b4c9",
+   "institution_id": "b22fee7b-cf39-5797-b84a-5c764fb82ce4",
+   "code": "CSE 373",
+   "title": "Data Structures and Algorithms",
+   "program_area": "Computer Science",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "5cdc7d1f-4fed-5693-b9e0-7755cabbab93",
+   "institution_id": "b22fee7b-cf39-5797-b84a-5c764fb82ce4",
+   "code": "MATH 124",
+   "title": "Calculus I",
+   "program_area": "Mathematics",
+   "requirement_type": null,
+   "credits": 5
+  },
+  {
+   "id": "9a7599bb-305b-5dfe-a1f8-4f1ae63c6ce1",
+   "institution_id": "b22fee7b-cf39-5797-b84a-5c764fb82ce4",
+   "code": "MATH 125",
+   "title": "Calculus II",
+   "program_area": "Mathematics",
+   "requirement_type": null,
+   "credits": 5
+  },
+  {
+   "id": "3ce263f0-2e35-545e-a5a4-6f5808c5e379",
+   "institution_id": "b22fee7b-cf39-5797-b84a-5c764fb82ce4",
+   "code": "MATH 126",
+   "title": "Calculus III",
+   "program_area": "Mathematics",
+   "requirement_type": null,
+   "credits": 5
+  },
+  {
+   "id": "218a0cae-f351-5c5b-9726-c31156eb52d2",
+   "institution_id": "b22fee7b-cf39-5797-b84a-5c764fb82ce4",
+   "code": "MATH 208",
+   "title": "Matrix Algebra",
+   "program_area": "Mathematics",
+   "requirement_type": null,
+   "credits": 3
+  },
+  {
+   "id": "5f510440-7b35-55f6-9094-d8042ac075c5",
+   "institution_id": "b22fee7b-cf39-5797-b84a-5c764fb82ce4",
+   "code": "STAT 311",
+   "title": "Elements of Statistics",
+   "program_area": "Mathematics",
+   "requirement_type": null,
+   "credits": 5
+  },
+  {
+   "id": "b4621e1e-cac9-5da4-b745-5ffeb625b08f",
+   "institution_id": "b22fee7b-cf39-5797-b84a-5c764fb82ce4",
+   "code": "ECON 200",
+   "title": "Introduction to Microeconomics",
+   "program_area": "Economics",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "b02715a8-3e0a-5089-acf2-acd2b6a415c1",
+   "institution_id": "b22fee7b-cf39-5797-b84a-5c764fb82ce4",
+   "code": "ECON 201",
+   "title": "Introduction to Macroeconomics",
+   "program_area": "Economics",
+   "requirement_type": null,
+   "credits": 4
+  },
+  {
+   "id": "6b9fa29a-3f6a-5282-add6-b2716ca09e6b",
+   "institution_id": "b22fee7b-cf39-5797-b84a-5c764fb82ce4",
+   "code": "PSYCH 101",
+   "title": "Psychology as a Science",
+   "program_area": "Psychology",
+   "requirement_type": null,
+   "credits": 5
+  },
+  {
+   "id": "1b303372-0e77-502f-a033-94a5d7a59bd5",
+   "institution_id": "b22fee7b-cf39-5797-b84a-5c764fb82ce4",
+   "code": "BIOL 180",
+   "title": "Introductory Biology I",
+   "program_area": "Biology",
+   "requirement_type": null,
+   "credits": 5
+  },
+  {
+   "id": "49faf4fc-055d-5dfd-a891-a15f49a9fc33",
+   "institution_id": "b22fee7b-cf39-5797-b84a-5c764fb82ce4",
+   "code": "CHEM 142",
+   "title": "General Chemistry I",
+   "program_area": "Chemistry",
+   "requirement_type": null,
+   "credits": 5
+  },
+  {
+   "id": "113a4eee-1bfd-577a-b5a9-bbed6bf64fdb",
+   "institution_id": "b22fee7b-cf39-5797-b84a-5c764fb82ce4",
+   "code": "CHEM 237",
+   "title": "Organic Chemistry I",
+   "program_area": "Chemistry",
+   "requirement_type": null,
+   "credits": 4
+  }
+ ],
+ "equivalencies": [
+  {
+   "source_course_id": "291a2ae0-dd0a-5c4e-a263-5d650b7bdd1f",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "ad2d2a25-264b-563a-b562-cfd286ffc475",
+   "bu_label": "CAS PS 261",
+   "units": 4,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-001"
+  },
+  {
+   "source_course_id": "6b9fa29a-3f6a-5282-add6-b2716ca09e6b",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "809d2139-dd1e-588a-b84e-00e789efec21",
+   "bu_label": "CAS PS 101",
+   "units": 3.33,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-002"
+  },
+  {
+   "source_course_id": "bf886ad0-8ccf-5d86-b057-30bae7ceb5de",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "179aac0e-610b-576d-a261-b5cfc69e83fc",
+   "bu_label": "CAS EC 201",
+   "units": 4,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-003"
+  },
+  {
+   "source_course_id": "9a7599bb-305b-5dfe-a1f8-4f1ae63c6ce1",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "e4ce65f1-f2fc-51b9-8b82-b3a692eb7b48",
+   "bu_label": "CAS MA 124",
+   "units": 3.33,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-004"
+  },
+  {
+   "source_course_id": "6c2d3d70-0121-5172-9b5c-5b4b3f452d10",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "758be3c4-d002-5395-b474-c5b28cee9878",
+   "bu_label": "CAS CS 111",
+   "units": 5,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-005"
+  },
+  {
+   "source_course_id": "3d277054-25a7-5d0b-9cab-4edf8de11380",
+   "outcome": "elective_credit",
+   "bu_course_id": null,
+   "bu_label": "CAS CS elective",
+   "units": 4,
+   "requirement_satisfied": "No",
+   "condition": "Group C: BU-only requirement, elective credit only",
+   "decision_id": "D-006"
+  },
+  {
+   "source_course_id": "2a0cca89-69bc-5389-8682-f66c30afdce0",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "deaf5be9-d989-5eec-931a-6369ee91e5c4",
+   "bu_label": "CAS CS 330",
+   "units": 4,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-007"
+  },
+  {
+   "source_course_id": "64f17d07-7545-546f-bd8e-92b4c21ee299",
+   "outcome": "elective_credit",
+   "bu_course_id": null,
+   "bu_label": "CAS PS elective",
+   "units": 3,
+   "requirement_satisfied": "No",
+   "condition": null,
+   "decision_id": "D-009"
+  },
+  {
+   "source_course_id": "d6da62c3-2785-530a-aacd-efd6c71a7f06",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "69ba7b93-f269-5f90-8165-3572e0fc17e6",
+   "bu_label": "CAS MA 123",
+   "units": 4,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-010"
+  },
+  {
+   "source_course_id": "42c75755-1ce9-5479-85f2-abe8a7f94fe4",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "dbe1c66f-14b6-5dbe-8474-0c67ef8429a7",
+   "bu_label": "CAS BI 107",
+   "units": 4,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-011"
+  },
+  {
+   "source_course_id": "52f8c356-4db2-56ff-92e3-ff241e1aa500",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "758be3c4-d002-5395-b474-c5b28cee9878",
+   "bu_label": "CAS CS 111",
+   "units": 4,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-012"
+  },
+  {
+   "source_course_id": "5d494c58-ec0c-566a-b126-b8d6c58b157c",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "9d7f0e0d-a7c1-5096-aa17-d68a8353eb88",
+   "bu_label": "CAS EC 101",
+   "units": 4,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-014"
+  },
+  {
+   "source_course_id": "2c5af860-ccc0-5d60-98ed-c04f66f08480",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "7fcb66a1-bcff-59a2-9cef-9a4e11068ad9",
+   "bu_label": "CAS MA 225",
+   "units": 4,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-015"
+  },
+  {
+   "source_course_id": "f7237796-ad0c-53cd-bc02-70b7913acbdb",
+   "outcome": "no_credit",
+   "bu_course_id": null,
+   "bu_label": "\u2014",
+   "units": 0,
+   "requirement_satisfied": "No",
+   "condition": null,
+   "decision_id": "D-016"
+  },
+  {
+   "source_course_id": "43a7d731-d8cb-50e8-9959-98e446a5d397",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "ad2d2a25-264b-563a-b562-cfd286ffc475",
+   "bu_label": "CAS PS 261",
+   "units": 4,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-017"
+  },
+  {
+   "source_course_id": "30b3eb05-3a8d-567e-bdfa-4f1ff5b7a382",
+   "outcome": "elective_credit",
+   "bu_course_id": null,
+   "bu_label": "CAS MA elective",
+   "units": 4,
+   "requirement_satisfied": "No",
+   "condition": null,
+   "decision_id": "D-018"
+  },
+  {
+   "source_course_id": "b33caf22-c49c-5d80-b7d1-677bcd29b0e7",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "1bee9b13-cd76-54a1-a6b1-0710ca03ef71",
+   "bu_label": "CAS BI 108",
+   "units": 4,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-019"
+  },
+  {
+   "source_course_id": "0228bc7a-ed7e-50eb-afbf-dfca5d998f2e",
+   "outcome": "elective_credit",
+   "bu_course_id": null,
+   "bu_label": "CAS CS elective",
+   "units": 5,
+   "requirement_satisfied": "No",
+   "condition": null,
+   "decision_id": "D-020"
+  },
+  {
+   "source_course_id": "32f10821-0a84-54da-896d-6df0b0973267",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "deaf5be9-d989-5eec-931a-6369ee91e5c4",
+   "bu_label": "CAS CS 330",
+   "units": 4,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-021"
+  },
+  {
+   "source_course_id": "fa0a74ff-2a46-590a-a4fc-270b5f007ae8",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "179aac0e-610b-576d-a261-b5cfc69e83fc",
+   "bu_label": "CAS EC 201",
+   "units": 4,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-022"
+  },
+  {
+   "source_course_id": "2b1c37c7-225b-597e-944a-e6c567b19160",
+   "outcome": "elective_credit",
+   "bu_course_id": null,
+   "bu_label": "CAS general elective",
+   "units": 3,
+   "requirement_satisfied": "No",
+   "condition": null,
+   "decision_id": "D-024"
+  },
+  {
+   "source_course_id": "5cdc7d1f-4fed-5693-b9e0-7755cabbab93",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "69ba7b93-f269-5f90-8165-3572e0fc17e6",
+   "bu_label": "CAS MA 123",
+   "units": 3.33,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-025"
+  },
+  {
+   "source_course_id": "2e42235f-3e57-59a4-be52-7d75e271e2ff",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "dbe1c66f-14b6-5dbe-8474-0c67ef8429a7",
+   "bu_label": "CAS BI 107",
+   "units": 4,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-026"
+  },
+  {
+   "source_course_id": "ef5bc594-da83-52d3-a280-2bd81ad28266",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "99e0d407-e97b-5043-aef1-a112ad2d173d",
+   "bu_label": "CAS CS 131",
+   "units": 4,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-027"
+  },
+  {
+   "source_course_id": "d90a1c38-762a-57aa-a698-72d7d9907c6d",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "19162c88-8440-5604-b7b2-7aa70a3fb68b",
+   "bu_label": "CAS PS 222",
+   "units": 4,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-028"
+  },
+  {
+   "source_course_id": "911e7d73-6c80-570b-9f3f-0aef1f295a17",
+   "outcome": "elective_credit",
+   "bu_course_id": null,
+   "bu_label": "CAS CS elective",
+   "units": 4,
+   "requirement_satisfied": "No",
+   "condition": "Group C: BU-only requirement, elective credit only",
+   "decision_id": "D-029"
+  },
+  {
+   "source_course_id": "4a1a30d6-9103-552e-93d7-e3b170aec137",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "558751ae-c8e1-5cf5-b48b-ac395a6bb0f2",
+   "bu_label": "CAS EC 202",
+   "units": 4,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-030"
+  },
+  {
+   "source_course_id": "6b421a99-2c7c-55d5-985d-834528380b2a",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "11b1d9b5-5727-597d-b1e6-a8ed8dae4fdf",
+   "bu_label": "CAS BI 206",
+   "units": 4,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-031"
+  },
+  {
+   "source_course_id": "f3260c83-a903-5462-bf7a-55ac630737a4",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "e4ce65f1-f2fc-51b9-8b82-b3a692eb7b48",
+   "bu_label": "CAS MA 124",
+   "units": 4,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-032"
+  },
+  {
+   "source_course_id": "631ef8e8-d8e7-529e-b64e-fc9b87293457",
+   "outcome": "elective_credit",
+   "bu_course_id": null,
+   "bu_label": "CAS CS elective",
+   "units": 4,
+   "requirement_satisfied": "No",
+   "condition": "Group C: BU-only requirement, elective credit only",
+   "decision_id": "D-033"
+  },
+  {
+   "source_course_id": "e3649567-a070-5771-b49e-1f06124f91f1",
+   "outcome": "elective_credit",
+   "bu_course_id": null,
+   "bu_label": "CAS CS elective",
+   "units": 4,
+   "requirement_satisfied": "No",
+   "condition": null,
+   "decision_id": "D-034"
+  },
+  {
+   "source_course_id": "0588cd64-30f7-527a-81ec-944cf4b13f56",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "99e0d407-e97b-5043-aef1-a112ad2d173d",
+   "bu_label": "CAS CS 131",
+   "units": 4,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-035"
+  },
+  {
+   "source_course_id": "52d1e9b0-dd26-5ef9-b189-f7c30a1d98ea",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "72a84483-f1ea-53ff-a76a-1b304e2901c1",
+   "bu_label": "CAS PS 251",
+   "units": 4,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-036"
+  },
+  {
+   "source_course_id": "b02715a8-3e0a-5089-acf2-acd2b6a415c1",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "88915821-d3b7-555b-9992-7e5524b6f2f6",
+   "bu_label": "CAS EC 102",
+   "units": 2.66,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-037"
+  },
+  {
+   "source_course_id": "4d7e740d-7be7-561b-b1d1-c1d56efa9adc",
+   "outcome": "elective_credit",
+   "bu_course_id": null,
+   "bu_label": "CAS BI elective",
+   "units": 5,
+   "requirement_satisfied": "No",
+   "condition": null,
+   "decision_id": "D-038"
+  },
+  {
+   "source_course_id": "4589179f-5e15-5481-be06-c918617714cc",
+   "outcome": "elective_credit",
+   "bu_course_id": null,
+   "bu_label": "CAS general elective",
+   "units": 3,
+   "requirement_satisfied": "No",
+   "condition": null,
+   "decision_id": "D-039"
+  },
+  {
+   "source_course_id": "3e285be5-de5e-5579-8698-b8b99dc9c006",
+   "outcome": "elective_credit",
+   "bu_course_id": null,
+   "bu_label": "CAS HI elective",
+   "units": 3,
+   "requirement_satisfied": "No",
+   "condition": null,
+   "decision_id": "D-040"
+  },
+  {
+   "source_course_id": "e7b3eb56-1142-5639-8c12-60ea2c89f738",
+   "outcome": "elective_credit",
+   "bu_course_id": null,
+   "bu_label": "CAS CS elective",
+   "units": 4,
+   "requirement_satisfied": "No",
+   "condition": "Group C: BU-only requirement, elective credit only",
+   "decision_id": "D-041"
+  },
+  {
+   "source_course_id": "61e2997e-9a98-5d6f-9505-c669e69fbc6e",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "9dbd6595-7c9e-5786-a2ad-a54ab42967cb",
+   "bu_label": "CAS PS 336",
+   "units": 4,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-042"
+  },
+  {
+   "source_course_id": "083a7654-64b7-52df-ab34-34bacced74d6",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "130a5bbd-4d3e-516c-aafe-071e939fa402",
+   "bu_label": "CAS CH 204",
+   "units": 5,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-043"
+  },
+  {
+   "source_course_id": "a77f75fc-9487-5e10-803a-4c6f330ee1d3",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "88915821-d3b7-555b-9992-7e5524b6f2f6",
+   "bu_label": "CAS EC 102",
+   "units": 4,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-044"
+  },
+  {
+   "source_course_id": "95a206b9-63ef-596d-bcc2-473350c40723",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "bb877f48-1027-50d7-86c8-0b547f127737",
+   "bu_label": "CAS CS 210",
+   "units": 4,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-045"
+  },
+  {
+   "source_course_id": "12a58fc3-19e8-5443-9c52-35c01b97b7f3",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "130a5bbd-4d3e-516c-aafe-071e939fa402",
+   "bu_label": "CAS CH 204",
+   "units": 5,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-046"
+  },
+  {
+   "source_course_id": "a62d3f35-c3d8-5df2-ad5b-8271607e87e2",
+   "outcome": "elective_credit",
+   "bu_course_id": null,
+   "bu_label": "CAS CS elective",
+   "units": 5,
+   "requirement_satisfied": "No",
+   "condition": null,
+   "decision_id": "D-047"
+  },
+  {
+   "source_course_id": "d177954b-41ab-5773-8489-9344d5072e45",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "bbb17259-0bbb-579f-b163-98072aaed001",
+   "bu_label": "CAS PS 241",
+   "units": 4,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-048"
+  },
+  {
+   "source_course_id": "fef470eb-bd20-5411-a989-6f21db6b8f04",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "8aa5fe7a-1b7b-5cfb-b145-22f3594fd4b6",
+   "bu_label": "CAS MA 581",
+   "units": 4,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-049"
+  },
+  {
+   "source_course_id": "25b6ea08-5ae5-5051-ad09-bfa06110cefb",
+   "outcome": "elective_credit",
+   "bu_course_id": null,
+   "bu_label": "CAS PS elective",
+   "units": 4,
+   "requirement_satisfied": "No",
+   "condition": null,
+   "decision_id": "D-050"
+  },
+  {
+   "source_course_id": "3ce263f0-2e35-545e-a5a4-6f5808c5e379",
+   "outcome": "elective_credit",
+   "bu_course_id": null,
+   "bu_label": "CAS MA elective",
+   "units": 3.33,
+   "requirement_satisfied": "No",
+   "condition": null,
+   "decision_id": "D-051"
+  },
+  {
+   "source_course_id": "4e1309b6-84be-5d4e-9e1b-9680ae081b64",
+   "outcome": "elective_credit",
+   "bu_course_id": null,
+   "bu_label": "CAS MA elective",
+   "units": 4,
+   "requirement_satisfied": "No",
+   "condition": null,
+   "decision_id": "D-052"
+  },
+  {
+   "source_course_id": "11a5254a-f192-5ee7-9275-19374079606d",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "993b328b-5770-5393-914e-d88367210cc2",
+   "bu_label": "CAS CH 101",
+   "units": 5,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-053"
+  },
+  {
+   "source_course_id": "9a14099a-f5ef-5926-b04c-17f5a73ea107",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "174012d6-e350-5149-a070-6eb9a17ea4cd",
+   "bu_label": "CAS MA 242",
+   "units": 4,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-054"
+  },
+  {
+   "source_course_id": "95c6bcdf-826e-548b-9326-76ffb063baf5",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "ae0139fb-a748-51fc-9fdf-b0c2ead4f290",
+   "bu_label": "CAS CH 102",
+   "units": 4,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-055"
+  },
+  {
+   "source_course_id": "ac555d2d-e401-548a-a4b9-fc1cc6e593d2",
+   "outcome": "combined_equivalent",
+   "bu_course_id": "758be3c4-d002-5395-b474-c5b28cee9878",
+   "bu_label": "CAS CS 111",
+   "units": 2.66,
+   "requirement_satisfied": "Only with CSE 142",
+   "condition": "Only with CSE 142",
+   "decision_id": "D-056"
+  },
+  {
+   "source_course_id": "a1310592-b808-580a-bd87-ce9dd68e20fa",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "758be3c4-d002-5395-b474-c5b28cee9878",
+   "bu_label": "CAS CS 111",
+   "units": 4,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-057"
+  },
+  {
+   "source_course_id": "bf498a7b-6ad4-5de0-9ef0-4a44846a2212",
+   "outcome": "elective_credit",
+   "bu_course_id": null,
+   "bu_label": "CAS PS elective",
+   "units": 4,
+   "requirement_satisfied": "No",
+   "condition": null,
+   "decision_id": "D-058"
+  },
+  {
+   "source_course_id": "1f9f9e87-37d6-5bf3-b523-083f86ba16ae",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "d3e9a6e6-6945-5676-9479-19f57a4325b8",
+   "bu_label": "CAS EC 203",
+   "units": 4,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-059"
+  },
+  {
+   "source_course_id": "382497ab-2699-5c0e-8400-6917ae832fdc",
+   "outcome": "elective_credit",
+   "bu_course_id": null,
+   "bu_label": "CAS MA elective",
+   "units": 4,
+   "requirement_satisfied": "No",
+   "condition": null,
+   "decision_id": "D-060"
+  },
+  {
+   "source_course_id": "5c2efdad-4a89-5948-9819-7de7e529590f",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "ae0139fb-a748-51fc-9fdf-b0c2ead4f290",
+   "bu_label": "CAS CH 102",
+   "units": 5,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-061"
+  },
+  {
+   "source_course_id": "1b303372-0e77-502f-a033-94a5d7a59bd5",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "dbe1c66f-14b6-5dbe-8474-0c67ef8429a7",
+   "bu_label": "CAS BI 107",
+   "units": 3.33,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-062"
+  },
+  {
+   "source_course_id": "6af152ea-1f9a-5bad-9f63-7b229185d3e5",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "d3e9a6e6-6945-5676-9479-19f57a4325b8",
+   "bu_label": "CAS EC 203",
+   "units": 4,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-063"
+  },
+  {
+   "source_course_id": "4787c20e-f977-507e-bf8b-af20158a743c",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "11b1d9b5-5727-597d-b1e6-a8ed8dae4fdf",
+   "bu_label": "CAS BI 206",
+   "units": 5,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-064"
+  },
+  {
+   "source_course_id": "54210fd5-a8bd-53ba-91a9-38a8ddd909ef",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "dbe1c66f-14b6-5dbe-8474-0c67ef8429a7",
+   "bu_label": "CAS BI 107",
+   "units": 5,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-065"
+  },
+  {
+   "source_course_id": "6020a07f-65b2-5bd6-b04b-814e91ab4a19",
+   "outcome": "combined_equivalent",
+   "bu_course_id": "758be3c4-d002-5395-b474-c5b28cee9878",
+   "bu_label": "CAS CS 111",
+   "units": 2.66,
+   "requirement_satisfied": "Only with CSE 143",
+   "condition": "Only with CSE 143",
+   "decision_id": "D-066"
+  },
+  {
+   "source_course_id": "49faf4fc-055d-5dfd-a891-a15f49a9fc33",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "993b328b-5770-5393-914e-d88367210cc2",
+   "bu_label": "CAS CH 101",
+   "units": 3.33,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-067"
+  },
+  {
+   "source_course_id": "c288100b-6b23-597e-a047-f048079af3e4",
+   "outcome": "elective_credit",
+   "bu_course_id": null,
+   "bu_label": "CAS PS elective",
+   "units": 4,
+   "requirement_satisfied": "No",
+   "condition": null,
+   "decision_id": "D-068"
+  },
+  {
+   "source_course_id": "df6b6729-9f40-5920-8850-87cc4c78c78a",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "174012d6-e350-5149-a070-6eb9a17ea4cd",
+   "bu_label": "CAS MA 242",
+   "units": 4,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-069"
+  },
+  {
+   "source_course_id": "70760655-5320-5487-9279-5ce2a60eecd7",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "e4ce65f1-f2fc-51b9-8b82-b3a692eb7b48",
+   "bu_label": "CAS MA 124",
+   "units": 4,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-070"
+  },
+  {
+   "source_course_id": "3a59e69b-7f6c-5425-8b55-e1cfe59dbe68",
+   "outcome": "no_credit",
+   "bu_course_id": null,
+   "bu_label": "\u2014",
+   "units": 0,
+   "requirement_satisfied": "No",
+   "condition": null,
+   "decision_id": "D-071"
+  },
+  {
+   "source_course_id": "928d6f43-0736-5f4c-bdce-a9984722deb0",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "29e12d80-d6f8-5910-b3ff-1652cfacaa80",
+   "bu_label": "CAS MA 226",
+   "units": 4,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-072"
+  },
+  {
+   "source_course_id": "5ffd484e-6aa6-5c24-85ca-de36a0a07d97",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "993b328b-5770-5393-914e-d88367210cc2",
+   "bu_label": "CAS CH 101",
+   "units": 4,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-073"
+  },
+  {
+   "source_course_id": "c99af924-3c80-56e0-90fc-674a10d2ecd0",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "9d7f0e0d-a7c1-5096-aa17-d68a8353eb88",
+   "bu_label": "CAS EC 101",
+   "units": 4,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-074"
+  },
+  {
+   "source_course_id": "de4ad72f-1104-5101-a0cb-0875c16bfcff",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "fada9152-6814-577a-ba7b-8bbd93fa4e73",
+   "bu_label": "CAS EC 204",
+   "units": 4,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-075"
+  },
+  {
+   "source_course_id": "f77f7392-8404-5133-ba1c-772ba0fd0ced",
+   "outcome": "elective_credit",
+   "bu_course_id": null,
+   "bu_label": "CAS BI elective",
+   "units": 4,
+   "requirement_satisfied": "No",
+   "condition": null,
+   "decision_id": "D-076"
+  },
+  {
+   "source_course_id": "749fb72a-ab68-514a-b3e9-1788fd775066",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "558751ae-c8e1-5cf5-b48b-ac395a6bb0f2",
+   "bu_label": "CAS EC 202",
+   "units": 4,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-077"
+  },
+  {
+   "source_course_id": "bf39c261-5564-5d90-947f-b8de81cd7a49",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "3b1d2509-061a-57d8-9961-3b9fbcec6c33",
+   "bu_label": "CAS PS 231",
+   "units": 4,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-078"
+  },
+  {
+   "source_course_id": "6eeb6e7c-13d2-58d4-9df2-5631d5db2e85",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "bb877f48-1027-50d7-86c8-0b547f127737",
+   "bu_label": "CAS CS 210",
+   "units": 4,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-079"
+  },
+  {
+   "source_course_id": "df0bf6d0-eb79-569f-abf9-7da13a849ffe",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "5b88dce7-8b04-534e-a89b-04ef561443e6",
+   "bu_label": "CAS PS 371",
+   "units": 4,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-080"
+  },
+  {
+   "source_course_id": "38b9c7df-1a97-5a0a-977a-69c25f87320a",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "1bee9b13-cd76-54a1-a6b1-0710ca03ef71",
+   "bu_label": "CAS BI 108",
+   "units": 4,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-081"
+  },
+  {
+   "source_course_id": "94ef0751-8df5-53b4-8e2e-389448bac99e",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "e4ce65f1-f2fc-51b9-8b82-b3a692eb7b48",
+   "bu_label": "CAS MA 124",
+   "units": 4,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-082"
+  },
+  {
+   "source_course_id": "9d4bc8ef-2dbb-5844-ae45-3da4e06e17f2",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "809d2139-dd1e-588a-b84e-00e789efec21",
+   "bu_label": "CAS PS 101",
+   "units": 4,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-083"
+  },
+  {
+   "source_course_id": "2935c1ac-5670-5b4b-b5db-8eccaf289f35",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "803a8458-bfd3-5c88-b52e-9dca63b0995a",
+   "bu_label": "CAS CH 203",
+   "units": 5,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-084"
+  },
+  {
+   "source_course_id": "c3a686bf-bbf3-5fdd-9100-4c4d2536dcf5",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "69ba7b93-f269-5f90-8165-3572e0fc17e6",
+   "bu_label": "CAS MA 123",
+   "units": 4,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-085"
+  },
+  {
+   "source_course_id": "b4621e1e-cac9-5da4-b745-5ffeb625b08f",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "9d7f0e0d-a7c1-5096-aa17-d68a8353eb88",
+   "bu_label": "CAS EC 101",
+   "units": 2.66,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-086"
+  },
+  {
+   "source_course_id": "bd15c478-fef0-53f7-b354-b1b69e9bc286",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "1bee9b13-cd76-54a1-a6b1-0710ca03ef71",
+   "bu_label": "CAS BI 108",
+   "units": 4,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-087"
+  },
+  {
+   "source_course_id": "218a0cae-f351-5c5b-9726-c31156eb52d2",
+   "outcome": "elective_credit",
+   "bu_course_id": null,
+   "bu_label": "CAS MA elective",
+   "units": 2.0,
+   "requirement_satisfied": "No",
+   "condition": null,
+   "decision_id": "D-088"
+  },
+  {
+   "source_course_id": "b75742cf-6c2d-5aa6-b78e-ff526a02038f",
+   "outcome": "elective_credit",
+   "bu_course_id": null,
+   "bu_label": "COM general elective",
+   "units": 3,
+   "requirement_satisfied": "No",
+   "condition": null,
+   "decision_id": "D-089"
+  },
+  {
+   "source_course_id": "20da508a-bf2e-5e84-b9e1-856ef070677c",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "803a8458-bfd3-5c88-b52e-9dca63b0995a",
+   "bu_label": "CAS CH 203",
+   "units": 5,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-090"
+  },
+  {
+   "source_course_id": "2437acd2-e3b0-55f5-a133-5b8ee06c19be",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "9d7f0e0d-a7c1-5096-aa17-d68a8353eb88",
+   "bu_label": "CAS EC 101",
+   "units": 3,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-091"
+  },
+  {
+   "source_course_id": "09d2d949-664d-5170-9686-3a3fcc032a3f",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "b4fa5879-ec21-52a0-9132-6fc35862f219",
+   "bu_label": "CAS CS 112",
+   "units": 4,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-092"
+  },
+  {
+   "source_course_id": "5e8fb111-050b-5909-b56d-1a611a96b7ff",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "88915821-d3b7-555b-9992-7e5524b6f2f6",
+   "bu_label": "CAS EC 102",
+   "units": 3,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-093"
+  },
+  {
+   "source_course_id": "b0544a25-9746-51e7-8dd9-370e25a13d84",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "809d2139-dd1e-588a-b84e-00e789efec21",
+   "bu_label": "CAS PS 101",
+   "units": 4,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-094"
+  },
+  {
+   "source_course_id": "bf62f279-0e84-5648-8947-6a801171b4c9",
+   "outcome": "elective_credit",
+   "bu_course_id": null,
+   "bu_label": "CAS CS elective",
+   "units": 2.66,
+   "requirement_satisfied": "No",
+   "condition": null,
+   "decision_id": "D-095"
+  },
+  {
+   "source_course_id": "3b1cb806-4e55-5f3e-a6d5-9183a70a2462",
+   "outcome": "no_credit",
+   "bu_course_id": null,
+   "bu_label": "\u2014",
+   "units": 0,
+   "requirement_satisfied": "No",
+   "condition": null,
+   "decision_id": "D-096"
+  },
+  {
+   "source_course_id": "2f6063e2-37cc-5002-a10e-02c465d39714",
+   "outcome": "elective_credit",
+   "bu_course_id": null,
+   "bu_label": "CAS CS elective",
+   "units": 4,
+   "requirement_satisfied": "No",
+   "condition": null,
+   "decision_id": "D-097"
+  },
+  {
+   "source_course_id": "306688a4-9ea5-5d3b-9916-5e85c664b930",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "7fcb66a1-bcff-59a2-9cef-9a4e11068ad9",
+   "bu_label": "CAS MA 225",
+   "units": 4,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-098"
+  },
+  {
+   "source_course_id": "6579b68d-f524-5f3a-8d72-44caf73d86c4",
+   "outcome": "elective_credit",
+   "bu_course_id": null,
+   "bu_label": "CAS PS elective",
+   "units": 4,
+   "requirement_satisfied": "No",
+   "condition": null,
+   "decision_id": "D-099"
+  },
+  {
+   "source_course_id": "a39fba8c-01dc-5ddd-bf54-cbc6bac5a3c8",
+   "outcome": "elective_credit",
+   "bu_course_id": null,
+   "bu_label": "CAS MA elective",
+   "units": 4,
+   "requirement_satisfied": "No",
+   "condition": null,
+   "decision_id": "D-100"
+  },
+  {
+   "source_course_id": "86c6ddca-4f11-547a-8eb9-f57f15cada9a",
+   "outcome": "elective_credit",
+   "bu_course_id": null,
+   "bu_label": "CAS EC elective",
+   "units": 4,
+   "requirement_satisfied": "No",
+   "condition": null,
+   "decision_id": "D-101"
+  },
+  {
+   "source_course_id": "d10c490c-657c-52d3-9ae8-b37aad38e822",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "809d2139-dd1e-588a-b84e-00e789efec21",
+   "bu_label": "CAS PS 101",
+   "units": 3,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-102"
+  },
+  {
+   "source_course_id": "281fb26b-9b26-5dd9-8e7a-eae678085ba3",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "88915821-d3b7-555b-9992-7e5524b6f2f6",
+   "bu_label": "CAS EC 102",
+   "units": 4,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-103"
+  },
+  {
+   "source_course_id": "b8059a38-210c-5a3c-bd15-d66d9407d85b",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "174012d6-e350-5149-a070-6eb9a17ea4cd",
+   "bu_label": "CAS MA 242",
+   "units": 3,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-104"
+  },
+  {
+   "source_course_id": "f3173bbd-1cc7-5b06-a650-a81827f161ec",
+   "outcome": "elective_credit",
+   "bu_course_id": null,
+   "bu_label": "CAS MA elective",
+   "units": 3,
+   "requirement_satisfied": "No",
+   "condition": null,
+   "decision_id": "D-105"
+  },
+  {
+   "source_course_id": "fdec39f1-432b-5dba-8d63-3547c1166744",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "993b328b-5770-5393-914e-d88367210cc2",
+   "bu_label": "CAS CH 101",
+   "units": 5,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-106"
+  },
+  {
+   "source_course_id": "5f510440-7b35-55f6-9094-d8042ac075c5",
+   "outcome": "elective_credit",
+   "bu_course_id": null,
+   "bu_label": "CAS MA elective",
+   "units": 3.33,
+   "requirement_satisfied": "No",
+   "condition": null,
+   "decision_id": "D-107"
+  },
+  {
+   "source_course_id": "da0ae906-ce4a-5c74-95ce-15509ede87a9",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "69ba7b93-f269-5f90-8165-3572e0fc17e6",
+   "bu_label": "CAS MA 123",
+   "units": 4,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-108"
+  },
+  {
+   "source_course_id": "9a820d72-0146-5d65-92b5-3ba8d07567f9",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "ec0c2638-8d7c-59ac-b5ba-e13077cf344a",
+   "bu_label": "CAS BI 203",
+   "units": 4,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-109"
+  },
+  {
+   "source_course_id": "cb3e8873-30e0-5af4-966c-d66349cfebf3",
+   "outcome": "bu_equivalent",
+   "bu_course_id": "bbb17259-0bbb-579f-b163-98072aaed001",
+   "bu_label": "CAS PS 241",
+   "units": 4,
+   "requirement_satisfied": "Yes",
+   "condition": null,
+   "decision_id": "D-110"
+  },
+  {
+   "source_course_id": "562583c5-f69e-5859-b621-257f738dc23d",
+   "outcome": "elective_credit",
+   "bu_course_id": null,
+   "bu_label": "CAS MA elective",
+   "units": 4,
+   "requirement_satisfied": "No",
+   "condition": null,
+   "decision_id": "D-111"
+  }
+ ],
+ "students": [
+  {
+   "external_id": "SYN-1001",
+   "program": "CS-BA",
+   "bu_start_date": "2026-09-02",
+   "prior_econ": 0
+  },
+  {
+   "external_id": "SYN-1002",
+   "program": "CS-BA",
+   "bu_start_date": "2026-09-02",
+   "prior_econ": 0
+  },
+  {
+   "external_id": "SYN-1003",
+   "program": "PS-BA",
+   "bu_start_date": "2026-09-02",
+   "prior_econ": 0
+  },
+  {
+   "external_id": "SYN-1004",
+   "program": "BI-BA",
+   "bu_start_date": "2026-01-20",
+   "prior_econ": 0
+  },
+  {
+   "external_id": "SYN-1005",
+   "program": "EC-BA",
+   "bu_start_date": "2025-09-02",
+   "prior_econ": 2
+  }
+ ],
+ "lines": [
+  {
+   "line_ref": "TL-001",
+   "sid": "SYN-1001",
+   "institution_id": "e1952ab3-6424-5430-94d0-afea26b273a4",
+   "course_id": "52f8c356-4db2-56ff-92e3-ff241e1aa500",
+   "code": "CSC 110",
+   "title": "Introduction to Programming (Python)",
+   "credits": 4,
+   "grade": "A",
+   "after_matric": false,
+   "received": "2026-06-20"
+  },
+  {
+   "line_ref": "TL-002",
+   "sid": "SYN-1001",
+   "institution_id": "e1952ab3-6424-5430-94d0-afea26b273a4",
+   "course_id": "da0ae906-ce4a-5c74-95ce-15509ede87a9",
+   "code": "MAT 151",
+   "title": "Calculus I",
+   "credits": 4,
+   "grade": "B+",
+   "after_matric": false,
+   "received": "2026-06-20"
+  },
+  {
+   "line_ref": "TL-003",
+   "sid": "SYN-1001",
+   "institution_id": "e1952ab3-6424-5430-94d0-afea26b273a4",
+   "course_id": "4589179f-5e15-5481-be06-c918617714cc",
+   "code": "ENG 101",
+   "title": "English Composition I",
+   "credits": 3,
+   "grade": "A-",
+   "after_matric": false,
+   "received": "2026-06-20"
+  },
+  {
+   "line_ref": "TL-004",
+   "sid": "SYN-1001",
+   "institution_id": "e1952ab3-6424-5430-94d0-afea26b273a4",
+   "course_id": "8a83ae13-4a95-57b9-9183-2dd741f5368e",
+   "code": "CSC 215",
+   "title": "Data Structures in Java",
+   "credits": 4,
+   "grade": "B",
+   "after_matric": false,
+   "received": "2026-06-20"
+  },
+  {
+   "line_ref": "TL-005",
+   "sid": "SYN-1001",
+   "institution_id": "e1952ab3-6424-5430-94d0-afea26b273a4",
+   "course_id": "4ae7b6f9-fc83-5c7a-9b96-92b737890449",
+   "code": "MAT 210",
+   "title": "Discrete Mathematics",
+   "credits": 3,
+   "grade": "B",
+   "after_matric": false,
+   "received": "2026-06-20"
+  },
+  {
+   "line_ref": "TL-006",
+   "sid": "SYN-1001",
+   "institution_id": "b22fee7b-cf39-5797-b84a-5c764fb82ce4",
+   "course_id": "b4621e1e-cac9-5da4-b745-5ffeb625b08f",
+   "code": "ECON 200",
+   "title": "Introduction to Microeconomics",
+   "credits": 4,
+   "grade": "B+",
+   "after_matric": false,
+   "received": "2026-07-08"
+  },
+  {
+   "line_ref": "TL-007",
+   "sid": "SYN-1002",
+   "institution_id": "1ecc7c3f-476c-5158-ac5a-2b61dac8238d",
+   "course_id": "6c2d3d70-0121-5172-9b5c-5b4b3f452d10",
+   "code": "CS 2000",
+   "title": "Introduction to Program Design and Implementation",
+   "credits": 5,
+   "grade": "A",
+   "after_matric": false,
+   "received": "2026-06-30"
+  },
+  {
+   "line_ref": "TL-008",
+   "sid": "SYN-1002",
+   "institution_id": "1ecc7c3f-476c-5158-ac5a-2b61dac8238d",
+   "course_id": "ef5bc594-da83-52d3-a280-2bd81ad28266",
+   "code": "CS 1800",
+   "title": "Discrete Structures",
+   "credits": 4,
+   "grade": "A-",
+   "after_matric": false,
+   "received": "2026-06-30"
+  },
+  {
+   "line_ref": "TL-009",
+   "sid": "SYN-1002",
+   "institution_id": "1ecc7c3f-476c-5158-ac5a-2b61dac8238d",
+   "course_id": "d6da62c3-2785-530a-aacd-efd6c71a7f06",
+   "code": "MATH 1341",
+   "title": "Calculus 1 for Science and Engineering",
+   "credits": 4,
+   "grade": "B",
+   "after_matric": false,
+   "received": "2026-06-30"
+  },
+  {
+   "line_ref": "TL-010",
+   "sid": "SYN-1002",
+   "institution_id": "1ecc7c3f-476c-5158-ac5a-2b61dac8238d",
+   "course_id": null,
+   "code": "ENGW 1111",
+   "title": "First-Year Writing",
+   "credits": 4,
+   "grade": "A",
+   "after_matric": false,
+   "received": "2026-06-30"
+  },
+  {
+   "line_ref": "TL-011",
+   "sid": "SYN-1002",
+   "institution_id": "1ecc7c3f-476c-5158-ac5a-2b61dac8238d",
+   "course_id": "e701133b-70e3-537e-af3e-5163dd1315ec",
+   "code": "CS 2100",
+   "title": "Program Design and Implementation 1",
+   "credits": 5,
+   "grade": "B+",
+   "after_matric": false,
+   "received": "2026-06-30"
+  },
+  {
+   "line_ref": "TL-012",
+   "sid": "SYN-1002",
+   "institution_id": "1ecc7c3f-476c-5158-ac5a-2b61dac8238d",
+   "course_id": "70760655-5320-5487-9279-5ce2a60eecd7",
+   "code": "MATH 1342",
+   "title": "Calculus 2 for Science and Engineering",
+   "credits": 4,
+   "grade": "C-",
+   "after_matric": false,
+   "received": "2026-06-30"
+  },
+  {
+   "line_ref": "TL-013",
+   "sid": "SYN-1002",
+   "institution_id": "1ecc7c3f-476c-5158-ac5a-2b61dac8238d",
+   "course_id": "df6b6729-9f40-5920-8850-87cc4c78c78a",
+   "code": "MATH 2331",
+   "title": "Linear Algebra",
+   "credits": 4,
+   "grade": "B+",
+   "after_matric": false,
+   "received": "2026-06-30"
+  },
+  {
+   "line_ref": "TL-014",
+   "sid": "SYN-1002",
+   "institution_id": "1ecc7c3f-476c-5158-ac5a-2b61dac8238d",
+   "course_id": "0228bc7a-ed7e-50eb-afbf-dfca5d998f2e",
+   "code": "CS 2700",
+   "title": "Data Structures and Analysis",
+   "credits": 5,
+   "grade": "B",
+   "after_matric": false,
+   "received": "2026-06-30"
+  },
+  {
+   "line_ref": "TL-015",
+   "sid": "SYN-1002",
+   "institution_id": "1ecc7c3f-476c-5158-ac5a-2b61dac8238d",
+   "course_id": "2a0cca89-69bc-5389-8682-f66c30afdce0",
+   "code": "CS 3000",
+   "title": "Algorithms and Data",
+   "credits": 4,
+   "grade": "B",
+   "after_matric": false,
+   "received": "2026-06-30"
+  },
+  {
+   "line_ref": "TL-016",
+   "sid": "SYN-1002",
+   "institution_id": "1ecc7c3f-476c-5158-ac5a-2b61dac8238d",
+   "course_id": "3d277054-25a7-5d0b-9cab-4edf8de11380",
+   "code": "CS 3800",
+   "title": "Theory of Computation",
+   "credits": 4,
+   "grade": "A-",
+   "after_matric": false,
+   "received": "2026-06-30"
+  },
+  {
+   "line_ref": "TL-017",
+   "sid": "SYN-1003",
+   "institution_id": "806a2083-c22f-54a2-8f98-4a7357d0b27e",
+   "course_id": "b0544a25-9746-51e7-8dd9-370e25a13d84",
+   "code": "PSYCH-UA 1",
+   "title": "Intro to Psychology",
+   "credits": 4,
+   "grade": "A",
+   "after_matric": false,
+   "received": "2026-07-15"
+  },
+  {
+   "line_ref": "TL-018",
+   "sid": "SYN-1003",
+   "institution_id": "806a2083-c22f-54a2-8f98-4a7357d0b27e",
+   "course_id": "c3a686bf-bbf3-5fdd-9100-4c4d2536dcf5",
+   "code": "MATH-UA 121",
+   "title": "Calculus I",
+   "credits": 4,
+   "grade": "C",
+   "after_matric": false,
+   "received": "2026-07-15"
+  },
+  {
+   "line_ref": "TL-019",
+   "sid": "SYN-1003",
+   "institution_id": "806a2083-c22f-54a2-8f98-4a7357d0b27e",
+   "course_id": null,
+   "code": "EXPOS-UA 1",
+   "title": "Writing as Exploration",
+   "credits": 4,
+   "grade": "B+",
+   "after_matric": false,
+   "received": "2026-07-15"
+  },
+  {
+   "line_ref": "TL-020",
+   "sid": "SYN-1003",
+   "institution_id": "806a2083-c22f-54a2-8f98-4a7357d0b27e",
+   "course_id": "6579b68d-f524-5f3a-8d72-44caf73d86c4",
+   "code": "PSYCH-UA 10",
+   "title": "Statistics for the Behavioral Sciences",
+   "credits": 4,
+   "grade": "B+",
+   "after_matric": false,
+   "received": "2026-07-15"
+  },
+  {
+   "line_ref": "TL-021",
+   "sid": "SYN-1003",
+   "institution_id": "806a2083-c22f-54a2-8f98-4a7357d0b27e",
+   "course_id": "42c75755-1ce9-5479-85f2-abe8a7f94fe4",
+   "code": "BIOL-UA 11",
+   "title": "Principles of Biology I",
+   "credits": 4,
+   "grade": "B-",
+   "after_matric": false,
+   "received": "2026-07-15"
+  },
+  {
+   "line_ref": "TL-022",
+   "sid": "SYN-1003",
+   "institution_id": "806a2083-c22f-54a2-8f98-4a7357d0b27e",
+   "course_id": "01230abd-c253-5a80-9cb9-572086117846",
+   "code": "PSYCH-UA 25",
+   "title": "Cognitive Neuroscience",
+   "credits": 4,
+   "grade": "A-",
+   "after_matric": false,
+   "received": "2026-07-15"
+  },
+  {
+   "line_ref": "TL-023",
+   "sid": "SYN-1003",
+   "institution_id": "806a2083-c22f-54a2-8f98-4a7357d0b27e",
+   "course_id": "291a2ae0-dd0a-5c4e-a263-5d650b7bdd1f",
+   "code": "PSYCH-UA 32",
+   "title": "Social Psychology",
+   "credits": 4,
+   "grade": "B",
+   "after_matric": false,
+   "received": "2026-07-15"
+  },
+  {
+   "line_ref": "TL-024",
+   "sid": "SYN-1003",
+   "institution_id": "806a2083-c22f-54a2-8f98-4a7357d0b27e",
+   "course_id": "cb3e8873-30e0-5af4-966c-d66349cfebf3",
+   "code": "PSYCH-UA 34",
+   "title": "Developmental Psychology",
+   "credits": 4,
+   "grade": "P",
+   "after_matric": false,
+   "received": "2026-07-15"
+  },
+  {
+   "line_ref": "TL-025",
+   "sid": "SYN-1004",
+   "institution_id": "e1952ab3-6424-5430-94d0-afea26b273a4",
+   "course_id": "3a59e69b-7f6c-5425-8b55-e1cfe59dbe68",
+   "code": "MAT 090",
+   "title": "Developmental Algebra",
+   "credits": 3,
+   "grade": "P",
+   "after_matric": false,
+   "received": "2025-12-01"
+  },
+  {
+   "line_ref": "TL-026",
+   "sid": "SYN-1004",
+   "institution_id": "e1952ab3-6424-5430-94d0-afea26b273a4",
+   "course_id": "2e42235f-3e57-59a4-be52-7d75e271e2ff",
+   "code": "BIO 121",
+   "title": "General Biology I",
+   "credits": 4,
+   "grade": "A",
+   "after_matric": false,
+   "received": "2025-12-01"
+  },
+  {
+   "line_ref": "TL-027",
+   "sid": "SYN-1004",
+   "institution_id": "e1952ab3-6424-5430-94d0-afea26b273a4",
+   "course_id": "5ffd484e-6aa6-5c24-85ca-de36a0a07d97",
+   "code": "CHM 121",
+   "title": "General Chemistry I",
+   "credits": 4,
+   "grade": "B",
+   "after_matric": false,
+   "received": "2025-12-01"
+  },
+  {
+   "line_ref": "TL-028",
+   "sid": "SYN-1004",
+   "institution_id": "e1952ab3-6424-5430-94d0-afea26b273a4",
+   "course_id": "bd15c478-fef0-53f7-b354-b1b69e9bc286",
+   "code": "BIO 122",
+   "title": "General Biology II",
+   "credits": 4,
+   "grade": "B+",
+   "after_matric": false,
+   "received": "2025-12-01"
+  },
+  {
+   "line_ref": "TL-029",
+   "sid": "SYN-1004",
+   "institution_id": "e1952ab3-6424-5430-94d0-afea26b273a4",
+   "course_id": "95c6bcdf-826e-548b-9326-76ffb063baf5",
+   "code": "CHM 122",
+   "title": "General Chemistry II",
+   "credits": 4,
+   "grade": "B-",
+   "after_matric": false,
+   "received": "2025-12-01"
+  },
+  {
+   "line_ref": "TL-030",
+   "sid": "SYN-1004",
+   "institution_id": "e1952ab3-6424-5430-94d0-afea26b273a4",
+   "course_id": "f3173bbd-1cc7-5b06-a650-a81827f161ec",
+   "code": "STA 150",
+   "title": "Elementary Statistics",
+   "credits": 3,
+   "grade": "A",
+   "after_matric": false,
+   "received": "2025-12-01"
+  },
+  {
+   "line_ref": "TL-031",
+   "sid": "SYN-1004",
+   "institution_id": "b22fee7b-cf39-5797-b84a-5c764fb82ce4",
+   "course_id": "5cdc7d1f-4fed-5693-b9e0-7755cabbab93",
+   "code": "MATH 124",
+   "title": "Calculus I",
+   "credits": 5,
+   "grade": "B+",
+   "after_matric": false,
+   "received": "2027-03-15"
+  },
+  {
+   "line_ref": "TL-032",
+   "sid": "SYN-1004",
+   "institution_id": "b22fee7b-cf39-5797-b84a-5c764fb82ce4",
+   "course_id": "113a4eee-1bfd-577a-b5a9-bbed6bf64fdb",
+   "code": "CHEM 237",
+   "title": "Organic Chemistry I",
+   "credits": 4,
+   "grade": "B",
+   "after_matric": false,
+   "received": "2027-03-15"
+  },
+  {
+   "line_ref": "TL-033",
+   "sid": "SYN-1005",
+   "institution_id": "806a2083-c22f-54a2-8f98-4a7357d0b27e",
+   "course_id": "4a1a30d6-9103-552e-93d7-e3b170aec137",
+   "code": "ECON-UA 12",
+   "title": "Intermediate Macroeconomics",
+   "credits": 4,
+   "grade": "B",
+   "after_matric": true,
+   "received": "2026-08-25"
+  },
+  {
+   "line_ref": "TL-034",
+   "sid": "SYN-1005",
+   "institution_id": "806a2083-c22f-54a2-8f98-4a7357d0b27e",
+   "course_id": "6af152ea-1f9a-5bad-9f63-7b229185d3e5",
+   "code": "ECON-UA 18",
+   "title": "Statistics",
+   "credits": 4,
+   "grade": "A",
+   "after_matric": true,
+   "received": "2026-08-25"
+  },
+  {
+   "line_ref": "TL-035",
+   "sid": "SYN-1005",
+   "institution_id": "806a2083-c22f-54a2-8f98-4a7357d0b27e",
+   "course_id": "de4ad72f-1104-5101-a0cb-0875c16bfcff",
+   "code": "ECON-UA 266",
+   "title": "Intro to Econometrics",
+   "credits": 4,
+   "grade": "B+",
+   "after_matric": true,
+   "received": "2026-08-25"
+  }
+ ],
+ "answer_key": [
+  {
+   "lid": "TL-001",
+   "sid": "SYN-1001",
+   "code": "CSC 110",
+   "path": "Existing equivalency",
+   "bu": "CAS CS 111",
+   "units": 4,
+   "secure": 4,
+   "pending": 0,
+   "flags": "No BU Hub units (all transfer courses)",
+   "why": "D-012: Syllabus confirms Python, recursion, dictionaries and intro to classes. Meets CS 111."
+  },
+  {
+   "lid": "TL-002",
+   "sid": "SYN-1001",
+   "code": "MAT 151",
+   "path": "Existing equivalency",
+   "bu": "CAS MA 123",
+   "units": 4,
+   "secure": 4,
+   "pending": 0,
+   "flags": "No BU Hub units (all transfer courses)",
+   "why": "D-108: Limits, derivatives, applications and intro to integration. Meets MA 123."
+  },
+  {
+   "lid": "TL-003",
+   "sid": "SYN-1001",
+   "code": "ENG 101",
+   "path": "Existing equivalency",
+   "bu": "CAS general elective",
+   "units": 3,
+   "secure": 3,
+   "pending": 0,
+   "flags": "No BU Hub units (all transfer courses)",
+   "why": "D-039: Composition course. General elective credit; transfer courses do not earn BU Hub units."
+  },
+  {
+   "lid": "TL-004",
+   "sid": "SYN-1001",
+   "code": "CSC 215",
+   "path": "Maybe \u2192 syllabus review",
+   "bu": "CAS CS 112",
+   "units": "Pending (4 if approved)",
+   "secure": 0,
+   "pending": 4,
+   "flags": "No BU Hub units (all transfer courses)",
+   "why": "Likely equivalent: syllabus covers linked lists, stacks, queues, BSTs, heaps, hash tables and Big-O in Java."
+  },
+  {
+   "lid": "TL-005",
+   "sid": "SYN-1001",
+   "code": "MAT 210",
+   "path": "Maybe \u2192 syllabus review",
+   "bu": "CAS CS 131 (conditional) or CAS MA 293",
+   "units": "Pending (3 if approved)",
+   "secure": 0,
+   "pending": 3,
+   "flags": "No BU Hub units (all transfer courses)",
+   "why": "Partial: logic, proofs, induction, counting and graphs covered; recurrences and discrete probability missing; 3 vs 4 credits. Department decides."
+  },
+  {
+   "lid": "TL-006",
+   "sid": "SYN-1001",
+   "code": "ECON 200",
+   "path": "Existing equivalency",
+   "bu": "CAS EC 101",
+   "units": 2.66,
+   "secure": 2.66,
+   "pending": 0,
+   "flags": "Quarter conversion 4 \u00d7 2/3 = 2.66; No BU Hub units (all transfer courses)",
+   "why": "D-086: Principles of microeconomics. Meets EC 101; units reduced by quarter conversion."
+  },
+  {
+   "lid": "TL-007",
+   "sid": "SYN-1002",
+   "code": "CS 2000",
+   "path": "Existing equivalency",
+   "bu": "CAS CS 111",
+   "units": 5,
+   "secure": 5,
+   "pending": 0,
+   "flags": "No BU Hub units (all transfer courses)",
+   "why": "D-005: Content and level align with CAS CS 111 (Introduction to Computer Science 1)."
+  },
+  {
+   "lid": "TL-008",
+   "sid": "SYN-1002",
+   "code": "CS 1800",
+   "path": "Existing equivalency",
+   "bu": "CAS CS 131",
+   "units": 4,
+   "secure": 4,
+   "pending": 0,
+   "flags": "No BU Hub units (all transfer courses)",
+   "why": "D-027: Content and level align with CAS CS 131 (Combinatoric Structures)."
+  },
+  {
+   "lid": "TL-009",
+   "sid": "SYN-1002",
+   "code": "MATH 1341",
+   "path": "Existing equivalency",
+   "bu": "CAS MA 123",
+   "units": 4,
+   "secure": 4,
+   "pending": 0,
+   "flags": "No BU Hub units (all transfer courses)",
+   "why": "D-010: Content and level align with CAS MA 123 (Calculus I)."
+  },
+  {
+   "lid": "TL-010",
+   "sid": "SYN-1002",
+   "code": "ENGW 1111",
+   "path": "Maybe \u2192 request syllabus",
+   "bu": "CAS general elective (likely)",
+   "units": "Pending (4 if approved)",
+   "secure": 0,
+   "pending": 4,
+   "flags": "No BU Hub units (all transfer courses)",
+   "why": "Course not in catalogue data; request syllabus. Writing courses typically earn elective credit, no Hub units."
+  },
+  {
+   "lid": "TL-011",
+   "sid": "SYN-1002",
+   "code": "CS 2100",
+   "path": "Maybe \u2192 syllabus review",
+   "bu": "CAS CS 112 (with CS 2700)",
+   "units": "Pending (5 if approved)",
+   "secure": 0,
+   "pending": 5,
+   "flags": "No BU Hub units (all transfer courses)",
+   "why": "Program design without asymptotic analysis. With CS 2700 (also on transcript) the pair likely covers CS 112; flag combined review."
+  },
+  {
+   "lid": "TL-012",
+   "sid": "SYN-1002",
+   "code": "MATH 1342",
+   "path": "Existing equivalency",
+   "bu": "CAS MA 124",
+   "units": 0,
+   "secure": 0,
+   "pending": 0,
+   "flags": "Grade below C: no credit; No BU Hub units (all transfer courses)",
+   "why": "D-070: Content and level align with CAS MA 124 (Calculus II)."
+  },
+  {
+   "lid": "TL-013",
+   "sid": "SYN-1002",
+   "code": "MATH 2331",
+   "path": "Existing equivalency",
+   "bu": "CAS MA 242",
+   "units": 4,
+   "secure": 4,
+   "pending": 0,
+   "flags": "No BU Hub units (all transfer courses)",
+   "why": "D-069: Full linear-algebra content. Per BU CS BA rules MA 242 may also substitute for CS 132."
+  },
+  {
+   "lid": "TL-014",
+   "sid": "SYN-1002",
+   "code": "CS 2700",
+   "path": "Existing equivalency",
+   "bu": "CAS CS elective",
+   "units": 5,
+   "secure": 5,
+   "pending": 0,
+   "flags": "No BU Hub units (all transfer courses)",
+   "why": "D-020: Data-structures content matches part of CS 112 but assumes CS 2100 design content. If student also completed CS 2100, refer to evaluator for combined CS 112 review."
+  },
+  {
+   "lid": "TL-015",
+   "sid": "SYN-1002",
+   "code": "CS 3000",
+   "path": "Existing equivalency",
+   "bu": "CAS CS 330",
+   "units": 4,
+   "secure": 4,
+   "pending": 0,
+   "flags": "No BU Hub units (all transfer courses)",
+   "why": "D-007: Content and level align with CAS CS 330 (Introduction to the Analysis of Algorithms)."
+  },
+  {
+   "lid": "TL-016",
+   "sid": "SYN-1002",
+   "code": "CS 3800",
+   "path": "Existing equivalency",
+   "bu": "CAS CS elective",
+   "units": 4,
+   "secure": 4,
+   "pending": 0,
+   "flags": "Group C requirement must be taken at BU: elective credit only; No BU Hub units (all transfer courses)",
+   "why": "D-006: Comparable to CAS CS 332, but CS Group C courses must be taken at BU. Elective credit only."
+  },
+  {
+   "lid": "TL-017",
+   "sid": "SYN-1003",
+   "code": "PSYCH-UA 1",
+   "path": "Existing equivalency",
+   "bu": "CAS PS 101",
+   "units": 4,
+   "secure": 4,
+   "pending": 0,
+   "flags": "No BU Hub units (all transfer courses)",
+   "why": "D-094: Content and level align with CAS PS 101 (General Psychology)."
+  },
+  {
+   "lid": "TL-018",
+   "sid": "SYN-1003",
+   "code": "MATH-UA 121",
+   "path": "Existing equivalency",
+   "bu": "CAS MA 123",
+   "units": 4,
+   "secure": 4,
+   "pending": 0,
+   "flags": "No BU Hub units (all transfer courses)",
+   "why": "D-085: Content and level align with CAS MA 123 (Calculus I)."
+  },
+  {
+   "lid": "TL-019",
+   "sid": "SYN-1003",
+   "code": "EXPOS-UA 1",
+   "path": "Maybe \u2192 request syllabus",
+   "bu": "CAS general elective (likely)",
+   "units": "Pending (4 if approved)",
+   "secure": 0,
+   "pending": 4,
+   "flags": "No BU Hub units (all transfer courses)",
+   "why": "Course not in catalogue data; request syllabus."
+  },
+  {
+   "lid": "TL-020",
+   "sid": "SYN-1003",
+   "code": "PSYCH-UA 10",
+   "path": "Existing equivalency",
+   "bu": "CAS PS elective",
+   "units": 4,
+   "secure": 4,
+   "pending": 0,
+   "flags": "No BU Hub units (all transfer courses)",
+   "why": "D-099: Statistics only; does not cover experimental design required for PS 211."
+  },
+  {
+   "lid": "TL-021",
+   "sid": "SYN-1003",
+   "code": "BIOL-UA 11",
+   "path": "Existing equivalency",
+   "bu": "CAS BI 107",
+   "units": 4,
+   "secure": 4,
+   "pending": 0,
+   "flags": "No BU Hub units (all transfer courses)",
+   "why": "D-011: Content and level align with CAS BI 107 (Biology 1)."
+  },
+  {
+   "lid": "TL-022",
+   "sid": "SYN-1003",
+   "code": "PSYCH-UA 25",
+   "path": "Maybe \u2192 syllabus review",
+   "bu": "CAS PS 231 (uncertain)",
+   "units": "Pending (4 if approved)",
+   "secure": 0,
+   "pending": 4,
+   "flags": "No BU Hub units (all transfer courses)",
+   "why": "Cognitive neuroscience; limited neurotransmission/hormone coverage vs PS 231. Likely elective unless syllabus shows physiological depth."
+  },
+  {
+   "lid": "TL-023",
+   "sid": "SYN-1003",
+   "code": "PSYCH-UA 32",
+   "path": "Existing equivalency",
+   "bu": "CAS PS 261",
+   "units": 4,
+   "secure": 4,
+   "pending": 0,
+   "flags": "No BU Hub units (all transfer courses)",
+   "why": "D-001: Content and level align with CAS PS 261 (Social Psychology)."
+  },
+  {
+   "lid": "TL-024",
+   "sid": "SYN-1003",
+   "code": "PSYCH-UA 34",
+   "path": "Existing equivalency",
+   "bu": "CAS PS 241",
+   "units": "Hold (4 if grade accepted)",
+   "secure": 0,
+   "pending": 4,
+   "flags": "Pass/Fail grade: cannot confirm C or higher, needs evaluator decision; No BU Hub units (all transfer courses)",
+   "why": "D-110: Content and level align with CAS PS 241 (Developmental Psychology)."
+  },
+  {
+   "lid": "TL-025",
+   "sid": "SYN-1004",
+   "code": "MAT 090",
+   "path": "Existing equivalency",
+   "bu": "\u2014",
+   "units": 0,
+   "secure": 0,
+   "pending": 0,
+   "flags": "Pass/Fail grade: cannot confirm C or higher, needs evaluator decision; No BU Hub units (all transfer courses)",
+   "why": "D-071: Developmental (pre-college) course; carries no degree credit at the sending institution."
+  },
+  {
+   "lid": "TL-026",
+   "sid": "SYN-1004",
+   "code": "BIO 121",
+   "path": "Existing equivalency",
+   "bu": "CAS BI 107",
+   "units": 4,
+   "secure": 4,
+   "pending": 0,
+   "flags": "No BU Hub units (all transfer courses)",
+   "why": "D-026: Intro biology I with lab. Meets BI 107."
+  },
+  {
+   "lid": "TL-027",
+   "sid": "SYN-1004",
+   "code": "CHM 121",
+   "path": "Existing equivalency",
+   "bu": "CAS CH 101",
+   "units": 4,
+   "secure": 4,
+   "pending": 0,
+   "flags": "No BU Hub units (all transfer courses)",
+   "why": "D-073: General chemistry I with lab. Meets CH 101."
+  },
+  {
+   "lid": "TL-028",
+   "sid": "SYN-1004",
+   "code": "BIO 122",
+   "path": "Existing equivalency",
+   "bu": "CAS BI 108",
+   "units": 4,
+   "secure": 4,
+   "pending": 0,
+   "flags": "No BU Hub units (all transfer courses)",
+   "why": "D-087: Intro biology II with lab. Meets BI 108."
+  },
+  {
+   "lid": "TL-029",
+   "sid": "SYN-1004",
+   "code": "CHM 122",
+   "path": "Existing equivalency",
+   "bu": "CAS CH 102",
+   "units": 4,
+   "secure": 4,
+   "pending": 0,
+   "flags": "No BU Hub units (all transfer courses)",
+   "why": "D-055: General chemistry II with lab. Meets CH 102."
+  },
+  {
+   "lid": "TL-030",
+   "sid": "SYN-1004",
+   "code": "STA 150",
+   "path": "Existing equivalency",
+   "bu": "CAS MA elective",
+   "units": 3,
+   "secure": 3,
+   "pending": 0,
+   "flags": "No BU Hub units (all transfer courses)",
+   "why": "D-105: Non-calculus statistics; elective credit."
+  },
+  {
+   "lid": "TL-031",
+   "sid": "SYN-1004",
+   "code": "MATH 124",
+   "path": "Existing equivalency",
+   "bu": "CAS MA 123",
+   "units": "0 (deadline; exception needed)",
+   "secure": 0,
+   "pending": 0,
+   "flags": "Quarter conversion 5 \u00d7 2/3 = 3.33; Transcript received > 1 year after BU start: deadline exceeded; No BU Hub units (all transfer courses)",
+   "why": "D-025: Quarter calculus I. Accepted for MA 123; 3.33 units after quarter conversion."
+  },
+  {
+   "lid": "TL-032",
+   "sid": "SYN-1004",
+   "code": "CHEM 237",
+   "path": "Maybe \u2192 syllabus review",
+   "bu": "CAS CH 203 (partial) / CAS CH elective",
+   "units": "0 (deadline; exception needed)",
+   "secure": 0,
+   "pending": 0,
+   "flags": "Quarter conversion 4 \u00d7 2/3 = 2.66; Transcript received > 1 year after BU start: deadline exceeded; No BU Hub units (all transfer courses)",
+   "why": "One quarter covers only part of Orgo I (no eliminations/alkenes, no lab). Likely elective unless paired with next quarter."
+  },
+  {
+   "lid": "TL-033",
+   "sid": "SYN-1005",
+   "code": "ECON-UA 12",
+   "path": "Existing equivalency",
+   "bu": "CAS EC 202",
+   "units": 4,
+   "secure": 4,
+   "pending": 0,
+   "flags": "No BU Hub units (all transfer courses)",
+   "why": "D-030: Content and level align with CAS EC 202 (Intermediate Macroeconomic Analysis)."
+  },
+  {
+   "lid": "TL-034",
+   "sid": "SYN-1005",
+   "code": "ECON-UA 18",
+   "path": "Existing equivalency",
+   "bu": "CAS EC 203",
+   "units": 4,
+   "secure": 4,
+   "pending": 0,
+   "flags": "No BU Hub units (all transfer courses)",
+   "why": "D-063: Content and level align with CAS EC 203 (Empirical Economics 1)."
+  },
+  {
+   "lid": "TL-035",
+   "sid": "SYN-1005",
+   "code": "ECON-UA 266",
+   "path": "Existing equivalency",
+   "bu": "CAS EC 204",
+   "units": "Hold (4 if cap allows)",
+   "secure": 0,
+   "pending": 4,
+   "flags": "Econ cap: this is 200+ level transfer #5 after matriculation (max 4); evaluator must choose which count; No BU Hub units (all transfer courses)",
+   "why": "D-075: Syllabus review: covers multiple regression, IV and panel data with an empirical project. Meets EC 204."
+  }
+ ]
+}
