@@ -25,7 +25,7 @@ Hackathon prototype for BU transfer credit evaluation. **All data is synthetic.*
 4. **Create your first admin**: Authentication → Users → *Add user* (email + password, auto-confirm). Then in SQL Editor:
    ```sql
    insert into staff_profiles (user_id, full_name, role)
-   select id, 'Your Name', 'admin' from auth.users where email = 'you@example.com';
+   select id, 'Your Name', 'admin' from auth.users where email = 'pgowtham.team@gmail.com';
    ```
 5. (Optional) Upload the PDFs in `data/transcripts` to the `transcripts` bucket, keeping their file names, and the PDFs in `data/syllabi` to the `syllabi` bucket.
 6. Configure the web app with the **Project URL** and either the **anon key** or **publishable key** (Settings → API). **Never use or share the `service_role` key** in the web app.
