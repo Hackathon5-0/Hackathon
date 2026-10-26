@@ -5,8 +5,16 @@ import type { Metadata } from "next";
 export const metadata: Metadata = { title: "Transfer Credit Check", description: "BU transfer credit evaluation (hackathon prototype, synthetic data)" };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
+  const supabaseConfig = JSON.stringify({
+    url: process.env.SUPABASE_URL ?? "",
+    key: process.env.SUPABASE_ANON_KEY ?? "",
+  });
+
   return (
     <html lang="en">
+      <head>
+        <script dangerouslySetInnerHTML={{ __html: `window.__supabaseConfig=${supabaseConfig};` }} />
+      </head>
       <body className="min-h-screen">
         <header className="border-b border-slate-200 bg-white">
           <div className="mx-auto flex max-w-6xl items-center justify-between px-4 py-3">
